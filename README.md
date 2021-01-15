@@ -2,7 +2,7 @@
 
 # Dynamic Semantics: from content to uptake
 
-### Chris Barker, NYU Linguistics, chris.barker@nyu.edu, version of \today
+### Chris Barker, NYU Linguistics, chris.barker@nyu.edu, version of 15 Jan 2021
 
 Utterances do things: they hire and inquire, they warn and they
 inform.  And so dynamic theories of meaning model both the content and
