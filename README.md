@@ -115,6 +115,12 @@ states versus non-atomic individuals.
 Bumford, Dylan. 2015. Incremental quantification and the dynamics of
 pair-list phenomena.  *Semantics and Pragmatics* 8.9. 1--70. 
 
+Carter, Sam. To appear. The Dynamics of Loose Talk. *Nous*.
+
+Carter, Sam. In review.  Force and choice: FCIs in Permissive and Directive Imperatives.
+
+Carter, Sam. To appear.  Vagueness and discourse dynamics.  *Linguistics meets Philosophy*.  Cambridge University Press.
+
 Charlow, Simon. 2016.  Post-suppositions and semantic theory.
 Lingbuzz/003243.  To appear in *Journal of Semantics*. 
 
