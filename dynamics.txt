@@ -1,0 +1,31 @@
+NYU semantics seminar announcement, spring 2021:
+
+Dynamic Semantics 2: from content to uptake
+
+Utterances do things: they hire and inquire, they warn and they
+inform.  And so dynamic theories of meaning model both the content and
+some portion of the effect of an utterance.  This is a presumptuous
+thing to do, since uptake depends on many factors, of which content is
+just one.  Do we need dynamic theories just to compute content? (Yes!)
+Should we even *try* to compute uptake? (Good luck...)
+
+We'll begin with the classic dynamic semantics of the 80s and 90s,
+working up to Groenendijk, Stokhof and Veltman's 95 Coreference and
+Modality.  We'll follow with a more skeptical phase, considering a
+rich body of work from Rutgers.  Finally, we'll consider Goodman and
+Frank's Rational Speech Act framework, which provides tools for
+reasoning about the relationship between content and uptake.
+
+This course warmly welcomes philosophers and linguists from NYU, CUNY,
+Rutgers, Columbia, and beyond.
+
+Mode and coordinates: the seminar will be conducted remotely via Zoom.
+Depending on circumstances, there may also be an in-person contingent
+that gathers in room 103 at 10 Washington Place on Wednesdays from
+15:30 till 18:10 New York time starting on 3 February 2021.  If you're
+interested, but you can't make the first zoom meeting for some reason,
+please write to me at chris.barker@nyu.edu.
+
+Historical note: I last taught a seminar on dynamic semantics in 2008.
+We'll be engaging with the work of several people who participated in
+that earlier seminar.
