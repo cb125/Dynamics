@@ -99,6 +99,7 @@ Tentative schedule (see bibliography below)
 Gilles, Willer, Charlow, Egan, Carter, Krifka, Harris, Rory, Mandelkern
 Rothschild & Yalcin, Murray and Starr
 Simons et al.
+Szabolcsi, the kids
 
 AnderBois, Scott, Adrian Brasoveanu, and Robert Henderson. 2015.
 At-issue proposals and appositive impositions in discourse.
@@ -118,12 +119,12 @@ Lingbuzz/003243.  To appear in *Journal of Semantics*.
 Gilles, Anthony. 2020.
 Updating Data Semantics.
 *Mind* 129.513. 1--41.
-doi:10.1093/mind/fzy008
+https://doi.org/10.1093/mind/fzy008
 
 Harris, Daniel. 2020.
 Semantics without semantic content.
 *Mind and Language* 1-25.
-DOI: 10.1111/mila.12290
+https://doi.org/10.1111/mila.12290
 
 https://plato.stanford.edu/entries/logic-dynamic/
 
