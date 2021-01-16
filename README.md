@@ -128,7 +128,7 @@ Lingbuzz/003243.  To appear in *Journal of Semantics*.
 
 Elliott, Patrick. 2020. Under review.  Toward a principled logic of anaphora.
 https://ling.auf.net/lingbuzz/005562
-DPL, but better, explicitly addressing criticisms of dynamic anaphora.
+Like DPL, but better, explicitly addressing criticisms of dynamic anaphora.
 
 Gilles, Anthony. 2020.
 Updating Data Semantics.
