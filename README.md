@@ -110,6 +110,11 @@ At-issue proposals and appositive impositions in discourse.
 *Journal of Semantics* 32.1. 93-138.
 https://doi.org/10.1093/jos/fft014
 
+
+Bledin, Justin and Kyle Rawlins. 2020. 
+Resistance and Resolution: Attentional Dynamics in Discourse.
+Some conversational moves change what is publicly under discussion.
+
 Brasoveanu, Adrian. 2008. Donkey pluralities: Plural information
 states versus non-atomic individuals.
 *Linguistics and Philosophy* 31.2. 129-209.
@@ -122,6 +127,12 @@ Carter, Sam. To appear. The Dynamics of Loose Talk. *Nous*.
 Carter, Sam. In review.  Force and choice: FCIs in Permissive and Directive Imperatives.
 
 Carter, Sam. To appear.  Vagueness and discourse dynamics.  *Linguistics meets Philosophy*.  Cambridge University Press.
+
+Champollion, Lucas, Justin Bledin, and Haoze Li.  2017.
+Rigid and Flexible Quantification in Plural Predicate Logic*
+*Proceedings of SALT 27*. 418–437.
+Inspired by DPL and Dependence Logic, the values of some instances of
+existential quantification can vary within a quantifiational context.
 
 Charlow, Simon. 2016.  Post-suppositions and semantic theory.
 Lingbuzz/003243.  To appear in *Journal of Semantics*. 
