@@ -1,8 +1,10 @@
 ## NYU semantics seminar syllabus, spring 2021
 
+# DRAFT of 16 Jan 2021
+
 # Dynamic Semantics: from content to uptake
 
-### Chris Barker, NYU Linguistics, chris.barker@nyu.edu, version of 15 Jan 2021
+### Chris Barker, NYU Linguistics, chris.barker@nyu.edu
 
 Utterances do things: they hire and inquire, they warn and they
 inform.  And so dynamic theories of meaning model both the content and
@@ -124,6 +126,10 @@ Carter, Sam. To appear.  Vagueness and discourse dynamics.  *Linguistics meets P
 Charlow, Simon. 2016.  Post-suppositions and semantic theory.
 Lingbuzz/003243.  To appear in *Journal of Semantics*. 
 
+Elliott, Patrick. 2020. Under review.  Toward a principled logic of anaphora.
+https://ling.auf.net/lingbuzz/005562
+DPL, but better, explicitly addressing criticisms of dynamic anaphora.
+
 Gilles, Anthony. 2020.
 Updating Data Semantics.
 *Mind* 129.513. 1--41.
@@ -161,3 +167,8 @@ Simons, Mandy, Judith Tonhauser, David Beaver, and Craige Roberts.
 2015.  What Projects and Why.  *Proceedings of Semantics and
 Linguistic Theory 20*. 309-327.
 https://doi.org/10.3765/salt.v0i20.2584
+
+Stojnic, Una. 2019. Content in a Dynamic Context. *Nous*.
+"[U]nless we captured the change in the context prompted by an 
+utterance we wouldn't be able to correctly predict the proposition 
+expressed by the sentence uttered."
