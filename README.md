@@ -89,11 +89,8 @@ conditions of our connectives."
    phenomena.  2015. Dylan Bumford. A dynamic semantics helps
    compute the content of *Every year I buy a faster computer*.
 
-9. 31 Mar. Post-suppositions. 2016 [to appear].  Simon Charlow.
-   Cumulative readings and multiple modified numerals.  Higher-order
-   quantifiers versus relations on *sets* of assignments.  New
-   argument that an update semantics solves content problems.
-
+9. 31 Mar. 
+    
 10. 7 Apr.
 
 11. 14 Apr.  
@@ -138,6 +135,9 @@ Free choice disjunction as a rational speech act. *Proceedings of Semantics and 
 
 Charlow, Simon. 2016.  Post-suppositions and semantic theory.
 Lingbuzz/003243.  To appear in *Journal of Semantics*. 
+Cumulative readings and multiple modified numerals.  Higher-order
+quantifiers versus relations on *sets* of assignments.  New
+argument that an update semantics solves content problems.
 
 Elliott, Patrick. 2020. Under review.  Toward a principled logic of anaphora.
 https://ling.auf.net/lingbuzz/005562.
