@@ -1,6 +1,6 @@
 ## NYU semantics seminar syllabus, spring 2021
 
-# DRAFT of 16 Jan 2021
+# DRAFT of 17 Jan 2021
 
 # Dynamic Semantics: From content to uptake
 
