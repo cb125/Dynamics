@@ -171,6 +171,10 @@ Semantics without semantic content.
 *Mind and Language* 1-25.
 https://doi.org/10.1111/mila.12290
 
+Heim, Irene. 1983/1988/2008. On the Projection Problem for Presuppositions. 
+Written in 1983 for WCFFL2; published in the proceedings of WCCFL in 1988; reprinted 
+in Paul Portner and Barbara Partee (eds). 2008. *Formal Semantics*. 249–260.
+
 https://plato.stanford.edu/entries/logic-dynamic/
 How do programming languages express computational meanings 
 by deploying anaphora (variable bindings) and presuppositions (exceptions)?
