@@ -28,7 +28,7 @@ keep philosophical issues in view as we evaluate proposals.
 
 Mode and coordinates: the seminar will be conducted remotely via Zoom.
 The first meeting is on Wednesday 3 February 2021 from 15:30 till
-18:10 New York time.  If you're interested, but you can't make the
+17:35 New York time.  If you're interested, but you can't make the
 first zoom meeting for some reason, please write to me at
 chris.barker@nyu.edu.
 
@@ -95,11 +95,15 @@ conditions of our connectives."
 
 11. 14 Apr.  
 
-12. 21 Apr.
+### Unit 3: A radical future
 
-13. 28 Apr.
+12. 21 Apr. Two papers in apposition (the second paper is 1 page long):
+  * Semantics without semantic content.  2020.  Dan Harris.  "A sentence's semantic value is not its content but a partial and defeasible constraint on what it can be used to say."  
+  * Predicting pragmatic reasoning in language games.  2012. Michael Frank and Noah Goodman.  A quantitative theory of how general cognition selects among possible contents.
 
-14. 5 May.
+13. 28 Apr.  Adjectival vagueness in a Baysian model of interpretation. 2017. How addressees select an extension for a vague adjective.
+
+14. 5 May. [Student presentations]
 
 AnderBois, Scott, Adrian Brasoveanu, and Robert Henderson. 2015.
 At-issue proposals and appositive impositions in discourse.
@@ -124,7 +128,7 @@ Carter, Sam. In review.  Force and choice: FCIs in Permissive and Directive Impe
 Carter, Sam. To appear.  Vagueness and discourse dynamics.  *Linguistics meets Philosophy*.  Cambridge University Press.
 
 Champollion, Lucas, Justin Bledin, and Haoze Li.  2017.
-Rigid and Flexible Quantification in Plural Predicate Logic*
+Rigid and Flexible Quantification in Plural Predicate Logic. 
 *Proceedings of SALT 27*. 418–437.
 Inspired by DPL and Dependence Logic, the values of some instances of
 existential quantification can vary within a quantifiational context.
@@ -181,6 +185,9 @@ by deploying anaphora (variable bindings) and presuppositions (exceptions)?
 
 Lassiter, Daniel. 2017. Bayes nets and the dynamics of probabilistic language.
 *Proceedings of Sinn und Bedeutung 21.*
+
+Lassiter, Daniel and Noah Goodman. 2017. Adjectival vagueness in a Bayesian model of interpretation. 
+Synthese 194, 3801–3836. https://doi.org/10.1007/s11229-015-0786-1
 
 Lewis, Karen. 2012. Discourse dynamics, pragmatics, and
 indefinites. *Philosophical Studies* 158. 313–342.
