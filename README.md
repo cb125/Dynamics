@@ -95,7 +95,7 @@ conditions of our connectives."
 
 11. 14 Apr.  
 
-### Unit 3: A radical future
+### Unit 3: Radicalizing content
 
 12. 21 Apr. Two papers in apposition (the second paper is 1 page long):
   * Semantics without semantic content.  2020.  Dan Harris.  "A sentence's semantic value is not its content but a partial and defeasible constraint on what it can be used to say."  
