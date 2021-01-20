@@ -117,9 +117,11 @@ Some conversational moves change what is publicly under discussion.
 Brasoveanu, Adrian. 2008. Donkey pluralities: Plural information
 states versus non-atomic individuals.
 *Linguistics and Philosophy* 31.2. 129-209.
+https://doi.org/10.1007/s10988-008-9035-0
 
 Bumford, Dylan. 2015. Incremental quantification and the dynamics of
 pair-list phenomena.  *Semantics and Pragmatics* 8.9. 1--70. 
+https://doi.org/10.3765/sp.8.9
 
 Carter, Sam. To appear. The Dynamics of Loose Talk. *Nous*.
 
@@ -130,12 +132,14 @@ Carter, Sam. To appear.  Vagueness and discourse dynamics.  *Linguistics meets P
 Champollion, Lucas, Justin Bledin, and Haoze Li.  2017.
 Rigid and Flexible Quantification in Plural Predicate Logic. 
 *Proceedings of SALT 27*. 418–437.
+https://doi.org/10.3765/salt.v27i0.4190
 Inspired by DPL and Dependence Logic, the values of some instances of
 existential quantification can vary within a quantifiational context.
 
 Champollion, Lucas, Anna Alsop, and Ioana Grosu. 2019. 
 Free choice disjunction as a rational speech act. *Proceedings of Semantics and Linguistic Theory 29*.
 238-257.
+https://doi.org/10.3765/salt.v29i0.4608
 
 Charlow, Simon. 2016.  Post-suppositions and semantic theory.
 Lingbuzz/003243.  To appear in *Journal of Semantics*. 
@@ -144,6 +148,12 @@ quantifiers versus relations on *sets* of assignments.  New
 argument that an update semantics solves content problems.
 
 Cresswell, Max. 2002. Static semantics for dynamic discourse. *Linguistics and Philosophy* 25. 545--571.
+https://doi.org/10.1023/A:1020834910542
+
+Dynamic Logic.
+https://plato.stanford.edu/entries/logic-dynamic/
+How do programming languages express computational meanings 
+by deploying anaphora (variable bindings) and presuppositions (exceptions)?
 
 Elliott, Patrick. 2020. Under review.  Toward a principled logic of anaphora.
 https://ling.auf.net/lingbuzz/005562.
@@ -152,6 +162,7 @@ Like DPL, but better, explicitly addressing criticisms of dynamic anaphora.
 Frank, Michael and Noah Goodman. 2012.
 Predicting Pragmatic Reasoning in Language Games.
 *Science* 336.6084:998.
+https://doi.org/10.1126/science.1218633
 Rational Speech Act theory in one page.
 See Scontras et al. for a tutorial.
 
@@ -166,13 +177,16 @@ Probabilistic Inference.  *Trends in Cognitive Sciences*
 
 Groenendijk, Jeroen and Martin Stokhof. 1991. Two theories of dynamic semantics. 
 In Jan van Eijck (ed). *Logics in AI. Lectures notes in computer science (Vol. 478)*. 55–64.
+https://doi.org/10.1007/BFb0018433
 Clear, simple criteria for recognizing some situations in which a dynamic system can be re-engineered 
 as a static system.
 
 Groenendijk, Jeroen, Martin Stokhof, and Frank Veltman. 1996. Coreference and modality. 
+https://doi.org/10.1111/b.9780631207498.1997.00010.x
 In Shallom Lappin (ed). *Handbook of contemporary semantic theory*. 179–213. Oxford: Blackwell.
 
 Harel, David, Dexter Kozen, and Jerzy Tiuryn. 1984. Dynamic logic. *Handbook of Philosophical Logic* 497--604.
+https://doi.org/10.1007/978-94-009-6259-0_10
 
 Harris, Daniel. 2020.
 Semantics without semantic content.
@@ -182,13 +196,11 @@ https://doi.org/10.1111/mila.12290
 Heim, Irene. 1983/1988/2008. On the Projection Problem for Presuppositions. 
 Written in 1983 for WCFFL2; published in the proceedings of WCCFL in 1988; reprinted 
 in Paul Portner and Barbara Partee (eds). 2008. *Formal Semantics*. 249–260.
+https://doi.org/10.1002/9780470758335.ch10
 
 Keshet, Ezra. 2018. Dynamic update anaphora logic: A simple analysis of complex anaphora.
 *Journal of Semantics* 35. 263--303.
-
-https://plato.stanford.edu/entries/logic-dynamic/
-How do programming languages express computational meanings 
-by deploying anaphora (variable bindings) and presuppositions (exceptions)?
+https://doi.org/10.1093/jos/ffx020
 
 Lassiter, Daniel. 2017. Bayes nets and the dynamics of probabilistic language.
 *Proceedings of Sinn und Bedeutung 21.*
@@ -199,7 +211,8 @@ Synthese 194, 3801–3836. https://doi.org/10.1007/s11229-015-0786-1
 Lewis, David. 1979. 
 Scorekeeping in a Language Game
 *Journal of Philosophical Logic*
-8.1. 339-359
+8.1. 339-359.
+https://doi.org/10.1007/BF00258436
 
 Lewis, Karen. 2012. Discourse dynamics, pragmatics, and
 indefinites. *Philosophical Studies* 158. 313–342.
@@ -260,6 +273,7 @@ Binding on the fly: Cross-sentential anaphora in variable-free semantics.
 In Kruijff and Oehrle (eds). 
 *Resource-sensitivity in Binding and Anaphora*
 215-229. Kluwer.
+https://doi.org/10.1007/978-94-010-0037-6_8
 
 Thomason, Richmond, Matthew Stone, and David DeVault. 2006. Enlightened update: A computational architecture for presupposition and other pragmatic phenomena.  
 Target article for Donna Byron, Craige Roberts, and Scott Schwenter's 2006 workshop on Presupposition Accommodation, OSU.
