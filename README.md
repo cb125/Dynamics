@@ -180,11 +180,12 @@ Gilles, Anthony. 2020.
 Updating Data Semantics.
 *Mind* 129.513. 1--41.
 https://doi.org/10.1093/mind/fzy008
-
+Stacking *maybe*s and *if*s can help us distinguish among dynamic strategies.
 
 Goodman, Noah and Michael Frank. 2016. Pragmatic Language Interpretation as
 Probabilistic Inference.  *Trends in Cognitive Sciences*
 20.11. 818--829.  https:/doi.org/10.1016/j.tics.2016.08.005
+Quantitative mind reading.
 
 Groenendijk, Jeroen and Martin Stokhof. 1991. Two theories of dynamic semantics. 
 In Jan van Eijck (ed). *Logics in AI. Lectures notes in computer science (Vol. 478)*. 55–64.
@@ -195,29 +196,34 @@ as a static system.
 Groenendijk, Jeroen, Martin Stokhof, and Frank Veltman. 1996. Coreference and modality. 
 https://doi.org/10.1111/b.9780631207498.1997.00010.x
 In Shallom Lappin (ed). *Handbook of contemporary semantic theory*. 179–213. Oxford: Blackwell.
+Simple but subtle.
 
 Harel, David, Dexter Kozen, and Jerzy Tiuryn. 1984. Dynamic logic. *Handbook of Philosophical Logic* 497--604.
 https://doi.org/10.1007/978-94-009-6259-0_10
+The view from computer science.
 
 Harris, Daniel. 2020.
 Semantics without semantic content.
 *Mind and Language* 1-25.
 https://doi.org/10.1111/mila.12290
+The semantic component produces constraints on possible contents (so let general cognition worry about update).
 
 Heim, Irene. 1983/1988/2008. On the Projection Problem for Presuppositions. 
 Written in 1983 for WCFFL2; published in the proceedings of WCCFL in 1988; reprinted 
 in Paul Portner and Barbara Partee (eds). 2008. *Formal Semantics*. 249–260.
 https://doi.org/10.1002/9780470758335.ch10
+Promise: getting the truth conditions right in a
+dynamic semantics automatically predicts presupposition projection.
+Clear, simple, elegant, short.  
 
 Keshet, Ezra. 2018. Dynamic update anaphora logic: A simple analysis of complex anaphora.
 *Journal of Semantics* 35. 263--303.
 https://doi.org/10.1093/jos/ffx020
-
-Lassiter, Daniel. 2017. Bayes nets and the dynamics of probabilistic language.
-*Proceedings of Sinn und Bedeutung 21.*
+(1) DPL, (2) Plural Logic, (3) this paper: let's try to get the dynamics of anaphora right.
 
 Lassiter, Daniel and Noah Goodman. 2017. Adjectival vagueness in a Bayesian model of interpretation. 
 Synthese 194, 3801–3836. https://doi.org/10.1007/s11229-015-0786-1
+
 
 Lewis, David. 1979. 
 Scorekeeping in a Language Game
