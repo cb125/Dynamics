@@ -76,24 +76,24 @@ conditions of our connectives."
   * The view from sign language. 2011.
     On the other hand, ASL provides an argument in favor of doing donkeys dynamically.
 
-5. 3 Mar. Discourse dynamics, pragmatics, and
+5. 3 Mar. [No general meeting; individual conferences with enrolled students]
+
+6. 10 Mar. Discourse dynamics, pragmatics, and
    indefinites. 2012. Karen Lewis.  Even the ability of an indefinite
    to contribute a new discourse referent is negotiable.
 
-6. 10 Mar. Varieties of update. 2014.  Sarah Murray. Some update is
+7. 17 Mar. Varieties of update. 2014.  Sarah Murray. Some update is
    non-negotiable, including evidential inferences in Cheyenne.
 
-7. 17 Mar. Appositive impositions in discourse.  2015. AnderBois,
+8. 24 Mar. Appositive impositions in discourse.  2015. AnderBois,
    Brasoveanu, and Henderson. Appositives non-negotiably impose their
    content on the context state.  Getting at-issue content right
    depends on tracking appositive content.
 
-8. 24 Mar.  Incremental quantification and the dynamics of pair-list
+9. 31 Mar.  Incremental quantification and the dynamics of pair-list
    phenomena.  2015. Dylan Bumford. A dynamic semantics helps
    compute the content of *Every year I buy a faster computer*.
 
-9. 31 Mar. 
-    
 10. 7 Apr.
 
 11. 14 Apr.  
