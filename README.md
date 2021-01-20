@@ -107,8 +107,10 @@ conditions of our connectives."
 
 AnderBois, Scott, Adrian Brasoveanu, and Robert Henderson. 2015.
 At-issue proposals and appositive impositions in discourse.
-*Journal of Semantics* 32.1. 93-138.
+*Journal of Semantics* 32.1. 93-138. 
 https://doi.org/10.1093/jos/fft014
+"[T]he two kinds of content [at-issue versus appositive] must be integrated into a single, incrementally evolving semantic representation."  
+Appositives *impose* an update on the context set, at-issue content *proposes* an update.
 
 Bledin, Justin and Kyle Rawlins. 2020. 
 Resistance and Resolution: Attentional Dynamics in Discourse.
@@ -118,16 +120,21 @@ Brasoveanu, Adrian. 2008. Donkey pluralities: Plural information
 states versus non-atomic individuals.
 *Linguistics and Philosophy* 31.2. 129-209.
 https://doi.org/10.1007/s10988-008-9035-0
+Two kinds of plurality: ontological, and discourse update-y.  Lots of donkeys.
 
 Bumford, Dylan. 2015. Incremental quantification and the dynamics of
 pair-list phenomena.  *Semantics and Pragmatics* 8.9. 1--70. 
 https://doi.org/10.3765/sp.8.9
+"[I]terated, incremental update... generalizing the sequential conjunction operator of standard dynamic semantics."
 
 Carter, Sam. To appear. The Dynamics of Loose Talk. *Nous*.
+Loose talk motivates an additional layer of meaning tracking *communicated content* versus *literal content*.
 
 Carter, Sam. In review.  Force and choice: FCIs in Permissive and Directive Imperatives.
+Directive force versus permissive force for imperatives involves a difference in semantic content.
 
 Carter, Sam. To appear.  Vagueness and discourse dynamics.  *Linguistics meets Philosophy*.  Cambridge University Press.
+"Using [a vague expression] imposes contraints on future use."
 
 Champollion, Lucas, Justin Bledin, and Haoze Li.  2017.
 Rigid and Flexible Quantification in Plural Predicate Logic. 
@@ -140,6 +147,7 @@ Champollion, Lucas, Anna Alsop, and Ioana Grosu. 2019.
 Free choice disjunction as a rational speech act. *Proceedings of Semantics and Linguistic Theory 29*.
 238-257.
 https://doi.org/10.3765/salt.v29i0.4608
+A specific analysis on which literal content depends on context-sensitive reasoning.
 
 Charlow, Simon. 2016.  Post-suppositions and semantic theory.
 Lingbuzz/003243.  To appear in *Journal of Semantics*. 
@@ -149,6 +157,8 @@ argument that an update semantics solves content problems.
 
 Cresswell, Max. 2002. Static semantics for dynamic discourse. *Linguistics and Philosophy* 25. 545--571.
 https://doi.org/10.1023/A:1020834910542
+Data motivating dynamic semantics "simply shows that truth-conditional 
+semantics is more complicted than we thought."
 
 Dynamic Logic.
 https://plato.stanford.edu/entries/logic-dynamic/
@@ -170,6 +180,7 @@ Gilles, Anthony. 2020.
 Updating Data Semantics.
 *Mind* 129.513. 1--41.
 https://doi.org/10.1093/mind/fzy008
+
 
 Goodman, Noah and Michael Frank. 2016. Pragmatic Language Interpretation as
 Probabilistic Inference.  *Trends in Cognitive Sciences*
