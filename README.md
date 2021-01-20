@@ -143,6 +143,8 @@ Cumulative readings and multiple modified numerals.  Higher-order
 quantifiers versus relations on *sets* of assignments.  New
 argument that an update semantics solves content problems.
 
+Cresswell, Max. 2002. Static semantics for dynamic discourse. *Linguistics and Philosophy* 25. 545--571.
+
 Elliott, Patrick. 2020. Under review.  Toward a principled logic of anaphora.
 https://ling.auf.net/lingbuzz/005562.
 Like DPL, but better, explicitly addressing criticisms of dynamic anaphora.
@@ -170,6 +172,8 @@ as a static system.
 Groenendijk, Jeroen, Martin Stokhof, and Frank Veltman. 1996. Coreference and modality. 
 In Shallom Lappin (ed). *Handbook of contemporary semantic theory*. 179–213. Oxford: Blackwell.
 
+Harel, David, Dexter Kozen, and Jerzy Tiuryn. 1984. Dynamic logic. *Handbook of Philosophical Logic* 497--604.
+
 Harris, Daniel. 2020.
 Semantics without semantic content.
 *Mind and Language* 1-25.
@@ -178,6 +182,9 @@ https://doi.org/10.1111/mila.12290
 Heim, Irene. 1983/1988/2008. On the Projection Problem for Presuppositions. 
 Written in 1983 for WCFFL2; published in the proceedings of WCCFL in 1988; reprinted 
 in Paul Portner and Barbara Partee (eds). 2008. *Formal Semantics*. 249–260.
+
+Keshet, Ezra. 2018. Dynamic update anaphora logic: A simple analysis of complex anaphora.
+*Journal of Semantics* 35. 263--303.
 
 https://plato.stanford.edu/entries/logic-dynamic/
 How do programming languages express computational meanings 
@@ -188,6 +195,11 @@ Lassiter, Daniel. 2017. Bayes nets and the dynamics of probabilistic language.
 
 Lassiter, Daniel and Noah Goodman. 2017. Adjectival vagueness in a Bayesian model of interpretation. 
 Synthese 194, 3801–3836. https://doi.org/10.1007/s11229-015-0786-1
+
+Lewis, David. 1979. 
+Scorekeeping in a Language Game
+*Journal of Philosophical Logic*
+8.1. 339-359
 
 Lewis, Karen. 2012. Discourse dynamics, pragmatics, and
 indefinites. *Philosophical Studies* 158. 313–342.
@@ -235,6 +247,9 @@ Simons, Mandy, Judith Tonhauser, David Beaver, and Craige Roberts.
 Linguistic Theory 20*. 309-327.
 https://doi.org/10.3765/salt.v0i20.2584
 
+Stanaker, Robert. 2018. Dynamic pragmatics, static semantics. In Daniel Fogal, Daniel Harris, and Matt Moss (eds).
+*New Work on Speech Acts*. Oxford University Press.
+
 Stojnic, Una. 2019. Content in a Dynamic Context. *Nous*.
 "[U]nless we captured the change in the context prompted by an 
 utterance we wouldn't be able to correctly predict the proposition 
@@ -245,6 +260,9 @@ Binding on the fly: Cross-sentential anaphora in variable-free semantics.
 In Kruijff and Oehrle (eds). 
 *Resource-sensitivity in Binding and Anaphora*
 215-229. Kluwer.
+
+Thomason, Richmond, Matthew Stone, and David DeVault. 2006. Enlightened update: A computational architecture for presupposition and other pragmatic phenomena.  
+Target article for Donna Byron, Craige Roberts, and Scott Schwenter's 2006 workshop on Presupposition Accommodation, OSU.
 
 Willer, Malte. 2018. Simplifying with Free Choice. *Topoi* 37.3. 379–392
 https://doi.org/10.1007/s11245-016-9437-5.
