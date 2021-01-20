@@ -223,35 +223,42 @@ https://doi.org/10.1093/jos/ffx020
 
 Lassiter, Daniel and Noah Goodman. 2017. Adjectival vagueness in a Bayesian model of interpretation. 
 Synthese 194, 3801–3836. https://doi.org/10.1007/s11229-015-0786-1
-
+Hallmarks of vagueness emerge from a probabilistic model of uptake.
 
 Lewis, David. 1979. 
 Scorekeeping in a Language Game
 *Journal of Philosophical Logic*
 8.1. 339-359.
 https://doi.org/10.1007/BF00258436
+Essential reading!  Presupposition accommodation.  Sphere of permissibility.  Good stuff!
 
 Lewis, Karen. 2012. Discourse dynamics, pragmatics, and
 indefinites. *Philosophical Studies* 158. 313–342.
 https://doi.org/10.1007/s11098-012-9882-y
+No grammatically-mediated uptake---even whether an indefinite enrolls a novel discourse referent is negotiable.
 
 Mandelkern, Matthew. 2020. Dynamic non-classicality.
 https://www.tandfonline.com/doi/full/10.1080/00048402.2019.1624376.
 It turns out that some dynamic systems invalidate certain classical inferences.  That's bad.
 [See info above about Matt's NYU spring 2021 seminar on related matters]
+Dynamic semantics invalidate certain logical inferences.  That's bad.
 
 Murray, Sarah. 2014. Varieties of update. 
 *Semantics and Pragmatics* 7.2. 1--51.
 http://dx.doi.org/10.3765/sp.7.2
 https://semprag.org/index.php/sp/article/view/sp.7.2
+Some upates are non-negotiable, e.g., evidentiality inferences in Cheyenne.
 
 Murray, Sarah and Will Starr. 2020. The structure of communicative
 acts. Linguistics and Philosophy.
 https://doi.org/10.1007/s10988-019-09289-0
+Some portion of force---*sentential force*---is semantic.  
+A carefully thought out manifesto.
 
 Qing, Ciyang, Noah Goodman, and Daniel Lassiter. 2016.
 A rational speech-act model of projective content.
 *Proceedings of the 38th Annual Conference of the Cognitive Science Society*.
+A concrete analysis for how to relegate presupposition projection to the pragmatics.
 
 Roberts, Craige. 2012[1996]. Information structure in discourse: Towards an integrated formal theory of pragmatics.
 *Semantics & Pragmatics* 5.6. 1–69. http://dx.doi.org/10.3765/sp.5.6
@@ -262,28 +269,42 @@ https://doi.org/10.1007/s10988-016-9188-1.  A provocative paper offering technic
 
 Schlenker, Philippe. 2007. Anti-dynamics: presupposition projection
 without dynamic semantics. *Journal of Logic, Language, and
-Information 16. 325–356.  https://doi.org/10.1007/s10849-006-9034-x
+Information* 16. 325–356.  https://doi.org/10.1007/s10849-006-9034-x
+Heim's program for deriving presuppositions from truth conditions misses an important generalization.
+Better to keep content as static truth conditions, and account for presuppositions via an independent mechanism.
 
 Schlenker, Philippe. 2011. Donkey anaphora: the view from sign
 language (ASL and LSF).  *Linguistics and Philosophy* 34. 341–395.
 https://doi.org/10.1007/s10988-011-9098-1
+Data from two sign languages provide evidence in support of dynamic approaches to donkey anaphora.
 
 Scontras et al. [no date]. Probabalistic language understanding.  An
 introduction to the Rational Speech Act framework.
 https://www.problang.org/chapters/01-introduction.html
+Tutorial.
 
 Simons, Mandy, Judith Tonhauser, David Beaver, and Craige Roberts.
 2015.  What Projects and Why.  *Proceedings of Semantics and
 Linguistic Theory 20*. 309-327.
 https://doi.org/10.3765/salt.v0i20.2584
+Not-at-issue stuff projects.
 
 Stanaker, Robert. 2018. Dynamic pragmatics, static semantics. In Daniel Fogal, Daniel Harris, and Matt Moss (eds).
 *New Work on Speech Acts*. Oxford University Press.
+The dynamic turn got us lost.  Let's get back on track: static content, and force in the pragmatics.
+"[T]hink of a context as a set of nested spheres of possible worlds..."
+Language games with epistemic *might*.
 
 Stojnic, Una. 2019. Content in a Dynamic Context. *Nous*.
 "[U]nless we captured the change in the context prompted by an 
 utterance we wouldn't be able to correctly predict the proposition 
 expressed by the sentence uttered."
+
+Stojnic, Una, Matthew Stone, and Ernie Lepore. 2017. Discourse and logical form: pronouns, attention and coherence.
+*Linguistics and Philosophy* 40. 519--547.
+https://doi.org/10.1007/s10988-017-9207-x
+Pronoun reference is uniformly governed by what is at the center of attention.  
+Furthermore, attention and coherence are governed by linguistic rules.
 
 Szabolcsi, Anna. 2003.
 Binding on the fly: Cross-sentential anaphora in variable-free semantics.  
@@ -291,9 +312,12 @@ In Kruijff and Oehrle (eds).
 *Resource-sensitivity in Binding and Anaphora*
 215-229. Kluwer.
 https://doi.org/10.1007/978-94-010-0037-6_8
+Cross-sentential anaphora without discourse update.
 
 Thomason, Richmond, Matthew Stone, and David DeVault. 2006. Enlightened update: A computational architecture for presupposition and other pragmatic phenomena.  
 Target article for Donna Byron, Craige Roberts, and Scott Schwenter's 2006 workshop on Presupposition Accommodation, OSU.
+Interpretation is a form of intention recognition.
+Pragmatic reasoning is holistic in character, continuous with common-sense reasoning about collaborative activities.
 
 Willer, Malte. 2018. Simplifying with Free Choice. *Topoi* 37.3. 379–392
 https://doi.org/10.1007/s11245-016-9437-5.
