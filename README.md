@@ -1,8 +1,8 @@
-## NYU semantics seminar syllabus, spring 2021
-
-# DRAFT of 17 Jan 2021
-
 # Dynamic Semantics: From content to uptake
+
+## NYU semantics seminar, spring 2021
+
+## Draft of 20 Jan
 
 ### Chris Barker, NYU Linguistics, chris.barker@nyu.edu
 
@@ -41,7 +41,9 @@ Matt's slogan for the seminar: "there's something dynamic about language,
 but we can't account for that by folding those dynamics into the truth/update 
 conditions of our connectives."  
 
-## Tentative schedule (see bibliography below)
+## Tentative schedule
+
+See bibliography below for full citation details.
 
 1. 3 Feb. Overview: sketch of how the seminar might go.  I'll present
    the simple system of Heim 1983, covering anaphora and
@@ -98,7 +100,7 @@ conditions of our connectives."
 
 11. 14 Apr.  
 
-### Unit 3: Radicalizing content
+### Unit 3: Rational Speech Act theory
 
 12. 21 Apr. Two papers in apposition (the second paper is 1 page long):
   * Semantics without semantic content.  2020.  Dan Harris.  "A sentence's semantic value is not its content but a partial and defeasible constraint on what it can be used to say."  
@@ -107,6 +109,8 @@ conditions of our connectives."
 13. 28 Apr.  Adjectival vagueness in a Baysian model of interpretation. 2017. How addressees select an extension for a vague adjective.
 
 14. 5 May. [Student presentations]
+
+# Bibliography (lightly annotated)
 
 AnderBois, Scott, Adrian Brasoveanu, and Robert Henderson. 2015.
 At-issue proposals and appositive impositions in discourse.
