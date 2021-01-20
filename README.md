@@ -321,9 +321,10 @@ In Kruijff and Oehrle (eds).
 https://doi.org/10.1007/978-94-010-0037-6_8
 Cross-sentential anaphora without discourse update.
 
-Thomason, Richmond, Matthew Stone, and David DeVault. 2006. Enlightened update: A computational architecture for presupposition and other pragmatic phenomena.  
-Target article for Donna Byron, Craige Roberts, and Scott Schwenter's 2006 workshop on Presupposition Accommodation, OSU.
-Interpretation is a form of intention recognition.
+Thomason, Richmond, Matthew Stone, and David DeVault. 2006. 
+Enlightened update: A computational architecture for presupposition and other pragmatic phenomena. 
+Target article for Donna Byron, Craige Roberts, and Scott Schwenter's 2006 workshop on Presupposition Accommodation, OSU. 
+Interpretation is a form of intention recognition. 
 Pragmatic reasoning is holistic in character, continuous with common-sense reasoning about collaborative activities.
 
 Willer, Malte. 2018. Simplifying with Free Choice. *Topoi* 37.3. 379–392
