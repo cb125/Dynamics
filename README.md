@@ -67,11 +67,14 @@ conditions of our connectives."
 
 ### Unit 2: Fast Forward
 
-4. 24 Feb. Anti-dynamics. 2007. Philippe Schlenker.  Argues that validating
-   classical logic should be a design goal.  Case study: 
-   accounting for presupposition projection in a
-   static semantics.  Counterpoint: The view from sign language. 2011.
-   ASL provides an argument in favor of doing donkeys dynamically.
+4. 24 Feb. For and against dynamics
+  * Anti-dynamics. 2007. Philippe Schlenker.  
+    Argues that validating
+    classical logic should be a design goal.  Case study: 
+    accounting for presupposition projection in a
+    static semantics.  
+  * The view from sign language. 2011.
+    On the other hand, ASL provides an argument in favor of doing donkeys dynamically.
 
 5. 3 Mar. Discourse dynamics, pragmatics, and
    indefinites. 2012. Karen Lewis.  Even the ability of an indefinite
