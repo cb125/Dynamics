@@ -97,12 +97,16 @@ See bibliography below for full citation details.
 
 9. 31 Mar.  Incremental quantification and the dynamics of pair-list
    phenomena.  2015. Dylan Bumford. A dynamic semantics helps
-   compute the content of *Every year I buy a faster computer*.
+   compute the content of *Every year I buy a faster computer*, with
+   implications for pair-list question interpretations and functional 
+   indefinites.
 
 10. 7 Apr. Post-suppositions and semantic theory. 2018ish. Simon Charlow.
-   Two ways of climbing the type hierarchy in a dynamic theory in order to
-   get cummulative readings right.  One way lifts the type of generalized quantifiers 
-   (split scope).  The other lifts the type of propositions (a kind of update semantics).
+    Two ways of climbing the type hierarchy in a dynamic theory in order to
+    get cummulative readings right.  One way lifts the type of generalized quantifiers 
+    (split scope).  The other lifts the type of propositions (a kind of update semantics).
+    Relevant split-scope analyses: Bumford 2018 (*the rabbit in the hat*), Law 2018 (distributivity),
+    Kuhn to appear (negative concord).
 
 11. 14 Apr.  The dynamics of loose talk. To appear.  Sam Carter.  
     A dynamic account of certain assertions that are not literally true, 
@@ -175,11 +179,6 @@ Cresswell, Max. 2002. Static semantics for dynamic discourse. *Linguistics and P
 https://doi.org/10.1023/A:1020834910542
 Data motivating dynamic semantics "simply shows that truth-conditional 
 semantics is more complicted than we thought."
-
-Dynamic Logic.
-https://plato.stanford.edu/entries/logic-dynamic/
-How do programming languages express computational meanings 
-by deploying anaphora (variable bindings) and presuppositions (exceptions)?
 
 Elliott, Patrick. 2020. Under review.  Toward a principled logic of anaphora.
 https://ling.auf.net/lingbuzz/005562.
@@ -254,7 +253,7 @@ https://doi.org/10.1093/jos/ffx020
 
 Koev, Todor. [In press]. *Parenthetical Meaning*. Oxford Studies in Semantics and Pragmatics, Oxford University Press.
 
-Kuhn, Jeremy. 2020. The dynamics of negative concord. To appear in *Linguistics and Philosophy*.
+Kuhn, Jeremy. To appear. The dynamics of negative concord. To appear in *Linguistics and Philosophy*.
 https://ling.auf.net/lingbuzz/004165
 Split scope allows negative concord items to impose local licensing constraints and still check later for non-local constraints.
 
@@ -365,6 +364,12 @@ Enlightened update: A computational architecture for presupposition and other pr
 Target article for Donna Byron, Craige Roberts, and Scott Schwenter's 2006 workshop on Presupposition Accommodation, OSU. 
 Interpretation is a form of intention recognition. 
 Pragmatic reasoning is holistic in character, continuous with common-sense reasoning about collaborative activities.
+
+Troquard, Nicolas and Philippe Balbiani. 2019.
+Propositional Dynamic Logic.
+https://plato.stanford.edu/entries/logic-dynamic/
+How do programming languages express computational meanings 
+by deploying anaphora (variable bindings) and presuppositions (exceptions)?
 
 Willer, Malte. 2018. Simplifying with Free Choice. *Topoi* 37.3. 379–392
 https://doi.org/10.1007/s11245-016-9437-5.
