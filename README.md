@@ -114,8 +114,8 @@ See bibliography below for full citation details.
 ### Unit 3: Rational Speech Act theory
 
 12. 21 Apr. Two papers in apposition (the second paper is 1 page long):
-  * Semantics without semantic content.  2020.  Dan Harris.  "A sentence's semantic value is not its content but a partial and defeasible constraint on what it can be used to say."  
-  * Predicting pragmatic reasoning in language games.  2012. Michael Frank and Noah Goodman.  A quantitative theory of how general cognition selects among possible contents.
+    * Semantics without semantic content.  2020.  Dan Harris.  "A sentence's semantic value is not its content but a partial and defeasible constraint on what it can be used to say."  
+    * Predicting pragmatic reasoning in language games.  2012. Michael Frank and Noah Goodman.  A quantitative theory of how general cognition selects among possible contents.
 
 13. 28 Apr.  Adjectival vagueness in a Baysian model of interpretation. 2017. Dan Lassiter and Noah Goodman. How vagueness can emerge from reasoning about adjective extensions.
 
