@@ -46,8 +46,8 @@ conditions of our connectives."
 
 See bibliography below for full citation details.
 
-1. 3 Feb. Overview: sketch of how the seminar might go.  I'll present
-   the simple system of Heim 1983, covering anaphora and
+1. 3 Feb. **Overview**: sketch of how the seminar might go.  I'll present
+   the simple system of Heim 1983, which aims at anaphora and
    presupposition projection.  Articulation of the major types of
    dynamical systems and their goals.  Major division: getting content
    right versus modeling uptake.
@@ -68,8 +68,6 @@ See bibliography below for full citation details.
    influences truth.  I'll present a refactored fragment based on work
    of Jim Pryor.
 
-### Unit 2: Fast Forward
-
 4. 24 Feb. For and against dynamics
   * Anti-dynamics. 2007. Philippe Schlenker.  
     Argues that validating
@@ -80,6 +78,8 @@ See bibliography below for full citation details.
     On the other hand, ASL provides an argument in favor of doing donkeys dynamically.
 
 5. 3 Mar. [No general meeting; individual conferences with enrolled students]
+
+### Unit 2: Fast Forward
 
 6. 10 Mar. Discourse dynamics, pragmatics, and
    indefinites. 2012. Karen Lewis.  Even the ability of an indefinite
@@ -92,15 +92,20 @@ See bibliography below for full citation details.
    Brasoveanu, and Henderson. Appositives non-negotiably impose their
    content on the context state.  Getting at-issue content right
    depends on tracking appositive content.  This approach is explored 
-   in Todor Koev's forthcoming OUP book.
+   at length in Todor Koev's forthcoming OUP book.
 
 9. 31 Mar.  Incremental quantification and the dynamics of pair-list
    phenomena.  2015. Dylan Bumford. A dynamic semantics helps
    compute the content of *Every year I buy a faster computer*.
 
-10. 7 Apr.
+10. 7 Apr. Post-suppositions and semantic theory. 2018ish. Simon Charlow.
+   Two ways of climbing the type hierarchy in a dynamic theory in order to
+   get cummulative readings right.  One way lifts the type of generalized quantifiers 
+   (split scope).  The other lifts the type of propositions (a kind of update semantics).
 
-11. 14 Apr.  
+11. 14 Apr.  The dynamics of loose talk. To appear.  Sam Carter.  
+    A dynamic account of certain assertions that are not literally true, 
+    along with arguments that the treatment must be semantic rather than pragmatic.
 
 ### Unit 3: Rational Speech Act theory
 
@@ -158,7 +163,7 @@ Free choice disjunction as a rational speech act. *Proceedings of Semantics and 
 https://doi.org/10.3765/salt.v29i0.4608
 A specific analysis on which literal content depends on context-sensitive reasoning.
 
-Charlow, Simon. 2016.  Post-suppositions and semantic theory.
+Charlow, Simon. 2018ish.  Post-suppositions and semantic theory.
 Lingbuzz/003243.  To appear in *Journal of Semantics*. 
 Cumulative readings and multiple modified numerals.  Higher-order
 quantifiers versus relations on *sets* of assignments.  New
@@ -216,6 +221,15 @@ Simple but subtle.
 Harel, David, Dexter Kozen, and Jerzy Tiuryn. 1984. Dynamic logic. *Handbook of Philosophical Logic* 497--604.
 https://doi.org/10.1007/978-94-009-6259-0_10
 The view from computer science.
+
+Harris, Daniel. 2019.
+We talk to people, not contexts.
+*Philosophical Studies* 177. 2713–2733.
+https://doi.org/10.1007/s11098-019-01335-8
+"[T]heories that take publicly shared contexts to play an essential role 
+in the nature of communicative acts or anaphoric dependence conflate an 
+artifact introduced by idealized models of conversation with a feature 
+of the phenomenon being modeled."
 
 Harris, Daniel. 2020.
 Semantics without semantic content.
