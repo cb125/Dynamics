@@ -70,12 +70,12 @@ See bibliography below for full citation details.
    of Jim Pryor.
 
 4. 24 Feb. A case for, and a case against, dynamic semantics, both sides argued by Philippe Schlenker:
-  * Anti-dynamics. 2007. Validating
-    classical logic should be a design goal.  Case study: 
-    accounting for presupposition projection in a
-    static semantics.  
-  * The view from sign language. 2011.
-    On the other hand, ASL provides an argument in favor of doing donkeys dynamically.
+   * Anti-dynamics. 2007. Validating
+     classical logic should be a design goal.  Case study: 
+     accounting for presupposition projection in a
+     static semantics.  
+   * The view from sign language. 2011.
+     On the other hand, ASL provides an argument in favor of doing donkeys dynamically.
 
 5. 3 Mar. [No general meeting; individual conferences with enrolled students]
 
