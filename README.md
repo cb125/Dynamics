@@ -59,7 +59,7 @@ See bibliography below for full citation details.
    Truth conditions of donkey sentences as a dynamic setpiece.  Now
    update is primary, and truth is derived.  Predecessor and
    inspiration: Pratt's Dynamic Logic.  Important variants: Dekker's
-   DPA, Musken's CDRT, van den Berg's Plural Information States, 
+   PLA, Musken's CDRT, van den Berg's Plural Information States, 
    de Groote's continuation-based Montagovian dynamics.
 
 3. 17 Feb. Coreference and Modality.  1996. Gronendijk, Stokhof and
@@ -179,6 +179,13 @@ Cresswell, Max. 2002. Static semantics for dynamic discourse. *Linguistics and P
 https://doi.org/10.1023/A:1020834910542
 Data motivating dynamic semantics "simply shows that truth-conditional 
 semantics is more complicted than we thought."
+
+Dekker, Paul. 1994/2012. Predicate logic with anaphora. In
+Mandy Harvey and Lynn Samelmann (eds). *Proceedings of SALT 4* 
+79--95. https://doi.org/10.3765/salt.v4i0.2459
+Reprinted in Paul Dekker. 2012. 
+*Dynamic Semantics*. 7-47.  Springer.
+https://doi.org/10.1007/978-94-007-4869-9_2
 
 Elliott, Patrick. 2020. Under review.  Toward a principled logic of anaphora.
 https://ling.auf.net/lingbuzz/005562.
