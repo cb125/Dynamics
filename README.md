@@ -105,7 +105,7 @@ See bibliography below for full citation details.
     Two ways of climbing the type hierarchy in a dynamic theory in order to
     get cummulative readings right.  One way lifts the type of generalized quantifiers 
     (split scope).  The other lifts the type of propositions (a kind of update semantics).
-    Relevant split-scope analyses: Bumford 2018 (*the rabbit in the hat*), Law 2018 (distributivity),
+    Other dynamic split-scope analyses: Bumford 2018 (*the rabbit in the hat*), Law 2018 (distributivity),
     Kuhn to appear (negative concord).
 
 11. 14 Apr.  The dynamics of loose talk. To appear.  Sam Carter.  
