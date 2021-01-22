@@ -20,7 +20,7 @@ rich body of work from Rutgers.  Finally, we'll consider Goodman and
 Frank's Rational Speech Act framework, which provides tools for
 reasoning about the relationship between content and uptake.
 
-This course warmly welcomes philosophers and linguists from NYU, CUNY,
+This course welcomes philosophers and linguists from NYU, CUNY,
 Rutgers, Columbia, and beyond.
 
 There will be plenty of linguisticy empirical data detail, but we will
@@ -40,7 +40,7 @@ that earlier seminar.
 **Related NYU seminar**: Mandelkern, Conditionals and epistemic modals, Thu 11-1.
 Matt's slogan for the seminar: "there's something dynamic about language, 
 but we can't account for that by folding those dynamics into the truth/update 
-conditions of our connectives."  
+conditions of our connectives."
 
 ## Tentative schedule
 
@@ -69,9 +69,8 @@ See bibliography below for full citation details.
    influences truth.  I'll present a refactored fragment based on work
    of Jim Pryor.
 
-4. 24 Feb. For and against dynamics
-  * Anti-dynamics. 2007. Philippe Schlenker.  
-    Argues that validating
+4. 24 Feb. A case for, and a case against, dynamic semantics, both sides argued by Philippe Schlenker:
+  * Anti-dynamics. 2007. Validating
     classical logic should be a design goal.  Case study: 
     accounting for presupposition projection in a
     static semantics.  
