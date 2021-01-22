@@ -37,7 +37,7 @@ Historical note: I last taught a seminar on dynamic semantics in 2008.
 We'll be engaging with the work of several people who participated in
 that earlier seminar.
 
-### Related seminar, *highly recommended*: Mandelkern, Conditionals and epistemic modals, Thu 11-1.
+**Related NYU seminar**: Mandelkern, Conditionals and epistemic modals, Thu 11-1.
 Matt's slogan for the seminar: "there's something dynamic about language, 
 but we can't account for that by folding those dynamics into the truth/update 
 conditions of our connectives."  
@@ -50,7 +50,8 @@ See bibliography below for full citation details.
    the simple system of Heim 1983, which aims at anaphora and
    presupposition projection.  Articulation of the major types of
    dynamical systems and their goals.  Major division: getting content
-   right versus modeling uptake.
+   right versus modeling uptake.  Assigned reading: Heim 1983.  Secondary
+   readings: Lewis 1979 (Scorekeeping); Harris 2019.
 
 ### Unit 1: Rewind
 
@@ -128,7 +129,8 @@ Appositives *impose* an update on the context set, at-issue content *proposes* a
 
 Bledin, Justin and Kyle Rawlins. 2020. 
 Resistance and Resolution: Attentional Dynamics in Discourse.
-Some conversational moves change what is publicly under discussion.
+Some expressions, as a matter of their conventional contribution,
+change what is publicly under discussion.
 
 Brasoveanu, Adrian. 2008. Donkey pluralities: Plural information
 states versus non-atomic individuals.
