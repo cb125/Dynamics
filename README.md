@@ -91,7 +91,8 @@ See bibliography below for full citation details.
 8. 24 Mar. Appositive impositions in discourse.  2015. AnderBois,
    Brasoveanu, and Henderson. Appositives non-negotiably impose their
    content on the context state.  Getting at-issue content right
-   depends on tracking appositive content.
+   depends on tracking appositive content.  This approach is explored 
+   in Todor Koev's forthcoming OUP book.
 
 9. 31 Mar.  Incremental quantification and the dynamics of pair-list
    phenomena.  2015. Dylan Bumford. A dynamic semantics helps
@@ -190,6 +191,12 @@ Updating Data Semantics.
 https://doi.org/10.1093/mind/fzy008
 Stacking *maybe*s and *if*s can help us distinguish among dynamic strategies.
 
+Golstein, Simon. 2019.
+Generalized update semantics
+*Mind* 128.511. 795--835.
+https://doi.org/10.1093/mind/fzy076
+"Synopsis: dynamic semantics without tests."
+
 Goodman, Noah and Michael Frank. 2016. Pragmatic Language Interpretation as
 Probabilistic Inference.  *Trends in Cognitive Sciences*
 20.11. 818--829.  https:/doi.org/10.1016/j.tics.2016.08.005
@@ -229,9 +236,20 @@ Keshet, Ezra. 2018. Dynamic update anaphora logic: A simple analysis of complex 
 https://doi.org/10.1093/jos/ffx020
 (1) DPL, (2) Plural Logic, (3) this paper: let's try to get the dynamics of anaphora right.
 
+Koev, Todor. [In press]. *Parenthetical Meaning*. Oxford Studies in Semantics and Pragmatics, Oxford University Press.
+
+Kuhn, Jeremy. 2020. The dynamics of negative concord. To appear in *Linguistics and Philosophy*.
+https://ling.auf.net/lingbuzz/004165
+Split scope allows negative concord items to impose local licensing constraints and still check later for non-local constraints.
+
 Lassiter, Daniel and Noah Goodman. 2017. Adjectival vagueness in a Bayesian model of interpretation. 
 Synthese 194, 3801–3836. https://doi.org/10.1007/s11229-015-0786-1
 Hallmarks of vagueness emerge from a probabilistic model of uptake.
+
+Law, Jess. 2018. 
+Binominal each and association with the structure of distributivity.
+https://ling.auf.net/lingbuzz/004289
+A dynamic fragment for binomial *each* with plural discourse referents, delayed evaluation, and more.
 
 Lewis, David. 1979. 
 Scorekeeping in a Language Game
@@ -262,6 +280,10 @@ acts. Linguistics and Philosophy.
 https://doi.org/10.1007/s10988-019-09289-0
 Some portion of force---*sentential force*---is semantic.  
 A carefully thought out manifesto.
+
+Nouwen, Rick, Adrian Brasoveanu, Jan van Eijck, and Albert Visser. 2016. Dynamic Semantics. Stanford Encyclopedia of Philosophy.
+https://plato.stanford.edu/entries/dynamic-semantics/
+Authoritative survey.
 
 Qing, Ciyang, Noah Goodman, and Daniel Lassiter. 2016.
 A rational speech-act model of projective content.
