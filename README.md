@@ -99,6 +99,8 @@ See bibliography below for full citation details.
    compute the content of *Every year I buy a faster computer*, with
    implications for pair-list question interpretations and functional 
    indefinites.
+   
+9. 31 Mar. A preference semantics for imperatives.  2020. Will Starr.   http://dx.doi.org/10.3765/sp.13.6
 
 10. 7 Apr. Post-suppositions and semantic theory. 2018ish. Simon Charlow.
     Two ways of climbing the type hierarchy in a dynamic theory in order to
@@ -345,6 +347,10 @@ Stanaker, Robert. 2018. Dynamic pragmatics, static semantics. In Daniel Fogal, D
 The dynamic turn got us lost.  Let's get back on track: static content, and force in the pragmatics.
 "[T]hink of a context as a set of nested spheres of possible worlds..."
 Language games with epistemic *might*.
+
+Starr, William. 2020. A preference semantics for imperatives.  
+*Semantics and Pragmatics* 13.6. 
+http://dx.doi.org/10.3765/sp.13.6
 
 Stojnic, Una. 2019. Content in a Dynamic Context. *Nous*.
 "[U]nless we captured the change in the context prompted by an 
