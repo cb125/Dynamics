@@ -94,13 +94,11 @@ See bibliography below for full citation details.
    depends on tracking appositive content.  This approach is explored 
    at length in Todor Koev's forthcoming OUP book.
 
-9. 31 Mar.  Incremental quantification and the dynamics of pair-list
-   phenomena.  2015. Dylan Bumford. A dynamic semantics helps
-   compute the content of *Every year I buy a faster computer*, with
-   implications for pair-list question interpretations and functional 
-   indefinites.
-   
-9. 31 Mar. A preference semantics for imperatives.  2020. Will Starr.   http://dx.doi.org/10.3765/sp.13.6
+9. 31 Mar. A preference semantics for imperatives.  2020. Will Starr.
+   "I will argue that the only way for the non-representationalist to 
+   meet these three challenges is to adopt a dynamic semantics. 
+   Such a dynamic semantics is proposed here: imperatives 
+   introduce preferences between alternatives."
 
 10. 7 Apr. Post-suppositions and semantic theory. 2018ish. Simon Charlow.
     Two ways of climbing the type hierarchy in a dynamic theory in order to
