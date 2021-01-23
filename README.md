@@ -2,7 +2,7 @@
 
 ## NYU semantics seminar, spring 2021
 
-## Draft of 22 Jan
+## Draft of 23 Jan
 
 ### Chris Barker, NYU Linguistics, chris.barker@nyu.edu
 
