@@ -28,7 +28,7 @@ keep philosophical issues in view as we evaluate proposals.
 
 Mode and coordinates: the seminar will be conducted remotely via Zoom.
 The first meeting is on Wednesday 3 February 2021 from 15:30 till
-17:35 New York time.  The zoom link is https://nyu.zoom.us/j/97945726284.
+17:30 New York time.  The zoom link is https://nyu.zoom.us/j/97945726284.
 If you're interested, but you can't make the
 first zoom meeting for some reason, please write to me at
 chris.barker@nyu.edu.
