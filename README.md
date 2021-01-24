@@ -293,8 +293,7 @@ No grammatically-mediated uptake---even whether an indefinite enrolls a novel di
 Mandelkern, Matthew. 2020. Dynamic non-classicality.
 https://www.tandfonline.com/doi/full/10.1080/00048402.2019.1624376.
 It turns out that some dynamic systems invalidate certain classical inferences.  That's bad.
-[See info above about Matt's NYU spring 2021 seminar on related matters]
-Dynamic semantics invalidate certain logical inferences.  That's bad.
+[See info above about Matt's NYU spring 2021 seminar]
 
 Murray, Sarah. 2014. Varieties of update. 
 *Semantics and Pragmatics* 7.2. 1--51.
