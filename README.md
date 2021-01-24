@@ -4,7 +4,7 @@
 
 ## Draft of 23 Jan
 
-### Chris Barker, NYU Linguistics, chris.barker@nyu.edu
+### [Chris Barker](https://cb125.github.io), NYU Linguistics, chris.barker@nyu.edu
 
 Utterances do things: they hire and inquire, they warn and they
 inform.  And so dynamic theories of meaning model both the content and
