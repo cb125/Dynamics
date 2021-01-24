@@ -130,6 +130,10 @@ https://doi.org/10.1093/jos/fft014
 "[T]he two kinds of content [at-issue versus appositive] must be integrated into a single, incrementally evolving semantic representation."  
 Appositives *impose* an update on the context set, at-issue content *proposes* an update.
 
+Bittner, Maria. 2014. Perspectival discourse referents for indexicals.
+In Hannah Greene (ed). *SULA 7: Proceedings of the Seventh Meeting on the Semantics of Under-represented Languages in the Americas*. 1–22.
+A dynamics for indexicals, including some shifty indexicals, parallel to the dynamics for anaphora.
+
 Bledin, Justin and Kyle Rawlins. 2020. 
 Resistance and Resolution: Attentional Dynamics in Discourse.
 Some expressions, as a matter of their conventional contribution,
@@ -271,6 +275,8 @@ Law, Jess. 2018.
 Binominal each and association with the structure of distributivity.
 https://ling.auf.net/lingbuzz/004289
 A dynamic fragment for binomial *each* with plural discourse referents, delayed evaluation, and more.
+
+Li, Haoze. 2021. Mandarin wh-conditionals: A question + dynamic meaning approach. Manuscript.
 
 Lewis, David. 1979. 
 Scorekeeping in a Language Game
