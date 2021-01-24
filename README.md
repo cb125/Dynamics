@@ -55,14 +55,14 @@ See bibliography below for full citation details.
 
 ### Unit 1: Rewind
 
-2. 10 Feb. Dynamic Predicate Logic.  1991.  Gronendijk and Stokhof.
+2. 10 Feb. [Dynamic Predicate Logic](https://github.com/cb125/Dynamics/blob/main/groenendijk-stokhof-dpl.pdf).  1991.  Gronendijk and Stokhof.
    Truth conditions of donkey sentences as a dynamic setpiece.  Now
    update is primary, and truth is derived.  Predecessor and
    inspiration: Pratt's Dynamic Logic.  Important variants: Dekker's
    PLA, Musken's CDRT, van den Berg's Plural Information States, 
    de Groote's continuation-based Montagovian dynamics.
 
-3. 17 Feb. Coreference and Modality.  1996. Gronendijk, Stokhof and
+3. 17 Feb. [Coreference and Modality](https://github.com/cb125/Dynamics/blob/main/gsv-coreference-and-modality.pdf).  1996. Gronendijk, Stokhof and
    Veltmann.  Dynamic anaphora meets epistemic update.  A high water
    mark in the old school style of dynamical systems.  Fascinating
    fragment that makes subtle predictions about how epistemic state
@@ -70,54 +70,54 @@ See bibliography below for full citation details.
    of Jim Pryor.
 
 4. 24 Feb. A case for, and a case against, dynamic semantics, both sides argued by Philippe Schlenker:
-   * Anti-dynamics. 2007. Validating
+   * [Anti-dynamics](https://github.com/cb125/Dynamics/blob/main/schlenker2007_Anti-dynamicsPresuppositionPro.pdf). 2007. Validating
      classical logic should be a design goal.  Case study: 
      accounting for presupposition projection in a
      static semantics.  
-   * The view from sign language. 2011.
+   * [The view from sign language](https://github.com/cb125/Dynamics/blob/main/schlenker-2011_DonkeyAnaphoraTheViewFromSignL.pdf). 2011.
      On the other hand, ASL provides an argument in favor of doing donkeys dynamically.
 
 5. 3 Mar. [No general meeting; individual conferences with enrolled students]
 
 ### Unit 2: Fast Forward
 
-6. 10 Mar. Discourse dynamics, pragmatics, and
-   indefinites. 2012. Karen Lewis.  Even the ability of an indefinite
+6. 10 Mar. [Discourse dynamics, pragmatics, and
+   indefinites](https://github.com/cb125/Dynamics/blob/main/lewis2012_DiscourseDynamicsPragmaticsAnd.pdf). 2012. Karen Lewis.  Even the ability of an indefinite
    to contribute a new discourse referent is negotiable.
 
-7. 17 Mar. Varieties of update. 2014.  Sarah Murray. Some update is
+7. 17 Mar. [Varieties of update](https://github.com/cb125/Dynamics/blob/main/murray-2014-varieties-of-update.pdf). 2014.  Sarah Murray. Some update is
    non-negotiable, including evidential inferences in Cheyenne.
 
-8. 24 Mar. Appositive impositions in discourse.  2015. AnderBois,
+8. 24 Mar. [Appositive impositions in discourse](https://github.com/cb125/Dynamics/blob/main/anderbois-brasoveanu-henderson-2015-appositive-dynamics.pdf). 2015. AnderBois,
    Brasoveanu, and Henderson. Appositives non-negotiably impose their
    content on the context state.  Getting at-issue content right
    depends on tracking appositive content.  This approach is explored 
    at length in Todor Koev's forthcoming OUP book.
 
-9. 31 Mar. A preference semantics for imperatives.  2020. Will Starr.
+9. 31 Mar. [A preference semantics for imperatives](https://github.com/cb125/Dynamics/blob/main/starr-2020-dynamic-imperatives.pdf). 2020. Will Starr.
    "I will argue that the only way for the non-representationalist to 
    meet these three challenges is to adopt a dynamic semantics. 
    Such a dynamic semantics is proposed here: imperatives 
    introduce preferences between alternatives."
 
-10. 7 Apr. Post-suppositions and semantic theory. 2018ish. Simon Charlow.
+10. 7 Apr. [Post-suppositions and semantic theory](https://github.com/cb125/Dynamics/blob/main/charlow-2016-Post-suppositions.pdf). 2018ish. Simon Charlow.
     Two ways of climbing the type hierarchy in a dynamic theory in order to
     get cummulative readings right.  One way lifts the type of generalized quantifiers 
     (split scope).  The other lifts the type of propositions (a kind of update semantics).
     Other dynamic split-scope analyses: Bumford 2018 (*the rabbit in the hat*), Law 2018 (distributivity),
     Kuhn to appear (negative concord).
 
-11. 14 Apr.  The dynamics of loose talk. To appear.  Sam Carter.  
+11. 14 Apr.  [The dynamics of loose talk](https://github.com/cb125/Dynamics/blob/main/carter-loose-talk.pdf). To appear.  Sam Carter.  
     A dynamic account of certain assertions that are not literally true, 
     along with arguments that the treatment must be semantic rather than pragmatic.
 
 ### Unit 3: Rational Speech Act theory
 
 12. 21 Apr. Two papers in apposition (the second paper is 1 page long):
-    * Semantics without semantic content.  2020.  Dan Harris.  "A sentence's semantic value is not its content but a partial and defeasible constraint on what it can be used to say."  
-    * Predicting pragmatic reasoning in language games.  2012. Michael Frank and Noah Goodman.  A quantitative theory of how general cognition selects among possible contents.
+    * [Semantics without semantic content](https://github.com/cb125/Dynamics/blob/main/harris-2020-SemanticsWithoutSemanticContent.pdf). 2020.  Dan Harris.  "A sentence's semantic value is not its content but a partial and defeasible constraint on what it can be used to say."  
+    * [Predicting pragmatic reasoning in language games](https://github.com/cb125/Dynamics/blob/main/frank-goodman-2012.pdf). 2012. Michael Frank and Noah Goodman.  A quantitative theory of how general cognition selects among possible contents.
 
-13. 28 Apr.  Adjectival vagueness in a Baysian model of interpretation. 2017. Dan Lassiter and Noah Goodman. How vagueness can emerge from reasoning about adjective extensions.
+13. 28 Apr.  [Adjectival vagueness in a Baysian model of interpretation](https://github.com/cb125/Dynamics/blob/main/lassiter-goodman-2017_AdjectivalVaguenessInABayesian.pdf). 2017. Dan Lassiter and Noah Goodman. How vagueness can emerge from reasoning about adjective extensions.
 
 14. 5 May. [Student presentations]
 
