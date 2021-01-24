@@ -50,8 +50,8 @@ See bibliography below for full citation details.
    the simple system of Heim 1983, which aims at anaphora and
    presupposition projection.  Articulation of the major types of
    dynamical systems and their goals.  Major division: getting content
-   right versus modeling uptake.  Assigned reading: Heim 1983.  Secondary
-   readings: Lewis 1979 (Scorekeeping); Harris 2019.
+   right versus modeling uptake.  Assigned reading: [Heim 1983](https://github.com/cb125/Dynamics/blob/main/heim-1983-projection-problem.pdf).  Secondary
+   readings: [Lewis 1979](https://github.com/cb125/Dynamics/blob/main/lewis-scorekeeping.pdf) (Scorekeeping); [Harris 2019](https://github.com/cb125/Dynamics/blob/main/harris-2020-SemanticsWithoutSemanticContent.pdf).
 
 ### Unit 1: Rewind
 
