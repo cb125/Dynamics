@@ -2,7 +2,7 @@
 
 ## NYU semantics seminar, spring 2021
 
-## Rolling update as of 24 Jan
+## Dynamically updated as of 25 Jan
 
 ### [Chris Barker](https://cb125.github.io), NYU Linguistics, chris.barker@nyu.edu
 
@@ -41,6 +41,8 @@ that earlier seminar.
 Matt's slogan for the seminar: "there's something dynamic about language, 
 but we can't account for that by folding those dynamics into the truth/update 
 conditions of our connectives."
+
+*Thanks to Dan Harris, Jeremy Kuhn, and Matt Mandelkern for comments on this syllabus.*
 
 ## Tentative schedule
 
@@ -258,6 +260,9 @@ Promise: getting the truth conditions right in a
 dynamic semantics automatically predicts presupposition projection.
 Clear, simple, elegant, short.  
 
+Hofmann, Lisa. 2019. The anaphoric potential of indefinites under negation and disjunction.
+*Amsterdam Colloquium*.  Extends Stone and Hardt's theory of modal subordination by viewing negation as a non-veridical context.
+
 Keshet, Ezra. 2018. Dynamic update anaphora logic: A simple analysis of complex anaphora.
 *Journal of Semantics* 35. 263--303.
 https://doi.org/10.1093/jos/ffx020
@@ -268,6 +273,7 @@ Koev, Todor. [In press]. *Parenthetical Meaning*. Oxford Studies in Semantics an
 Kuhn, Jeremy. To appear. The dynamics of negative concord. To appear in *Linguistics and Philosophy*.
 https://ling.auf.net/lingbuzz/004165
 Split scope allows negative concord items to impose local licensing constraints and still check later for non-local constraints.
+Great example sentence: *I haven't published many papers, but they all appear in good journals*.
 
 Lassiter, Daniel and Noah Goodman. 2017. Adjectival vagueness in a Bayesian model of interpretation. 
 Synthese 194, 3801–3836. https://doi.org/10.1007/s11229-015-0786-1
