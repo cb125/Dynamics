@@ -278,8 +278,6 @@ Binominal each and association with the structure of distributivity.
 https://ling.auf.net/lingbuzz/004289
 A dynamic fragment for binomial *each* with plural discourse referents, delayed evaluation, and more.
 
-Li, Haoze. 2021. Mandarin wh-conditionals: A question + dynamic meaning approach. Manuscript.
-
 Lewis, David. 1979. 
 Scorekeeping in a Language Game
 *Journal of Philosophical Logic*
@@ -291,6 +289,8 @@ Lewis, Karen. 2012. Discourse dynamics, pragmatics, and
 indefinites. *Philosophical Studies* 158. 313–342.
 https://doi.org/10.1007/s11098-012-9882-y
 No grammatically-mediated uptake---even whether an indefinite enrolls a novel discourse referent is negotiable.
+
+Li, Haoze. 2021. Mandarin wh-conditionals: A question + dynamic meaning approach. Manuscript.
 
 Mandelkern, Matthew. 2020. Dynamic non-classicality.
 https://www.tandfonline.com/doi/full/10.1080/00048402.2019.1624376.
