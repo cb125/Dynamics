@@ -189,10 +189,12 @@ Mandy Harvey and Lynn Samelmann (eds). *Proceedings of SALT 4*
 Reprinted in Paul Dekker. 2012. 
 *Dynamic Semantics*. 7-47.  Springer.
 https://doi.org/10.1007/978-94-007-4869-9_2
+Propositions are true or false with respect to sequences of individuals.  Compare with Harris 2020.
 
 Elliott, Patrick. 2020. Under review.  Toward a principled logic of anaphora.
 https://ling.auf.net/lingbuzz/005562.
 Like DPL, but better, explicitly addressing criticisms of dynamic anaphora.
+Compare with Keshet 2018.
 
 Frank, Michael and Noah Goodman. 2012.
 Predicting Pragmatic Reasoning in Language Games.
