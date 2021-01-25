@@ -15,7 +15,7 @@ Should we even *try* to compute uptake? (Good luck...)
 
 We'll begin with the classic dynamic semantics of the 80s and 90s,
 working up to Groenendijk, Stokhof and Veltman's 95 Coreference and
-Modality.  We'll follow with a more skeptical phase, considering a
+Modality.  We'll follow with a more skeptical phase, exploring a
 rich body of work from Rutgers.  Finally, we'll consider Goodman and
 Frank's Rational Speech Act framework, which provides tools for
 reasoning about the relationship between content and uptake.
