@@ -2,7 +2,7 @@
 
 ## NYU semantics seminar, spring 2021
 
-## Dynamically updated as of 25 Jan
+## Updated to 28 Jan
 
 ### [Chris Barker](https://cb125.github.io), NYU Linguistics, chris.barker@nyu.edu
 
