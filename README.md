@@ -2,7 +2,7 @@
 
 ## NYU semantics seminar, spring 2021
 
-## Rolling update as of 28 Jan
+## Rolling update as of 28 1 Feb
 
 ### [Chris Barker](https://cb125.github.io), NYU Linguistics, chris.barker@nyu.edu
 
@@ -53,7 +53,9 @@ See bibliography below for full citation details.
    presupposition projection.  Articulation of the major types of
    dynamical systems and their goals.  Major division: getting content
    right versus modeling uptake.  Assigned reading: [Heim 1983](https://github.com/cb125/Dynamics/blob/main/heim-1983-projection-problem.pdf).  Secondary
-   readings: [Lewis 1979](https://github.com/cb125/Dynamics/blob/main/lewis-scorekeeping.pdf) (Scorekeeping); [Harris 2019](https://github.com/cb125/Dynamics/blob/main/harris-2020-SemanticsWithoutSemanticContent.pdf).
+   readings: [Lewis 1979](https://github.com/cb125/Dynamics/blob/main/lewis-scorekeeping.pdf) (Scorekeeping); [Harris 2019](https://github.com/cb125/Dynamics/blob/main/harris-2020-SemanticsWithoutSemanticContent.pdf).  
+   **Haskell code** of an implementation of Heim's fragment is available [here](https://github.com/cb125/Dynamics/blob/main/01-heim.hs).  
+   Notes on the implementation [here](https://github.com/cb125/Dynamics/blob/main/01-heim-fragment.pdf).
 
 ### Unit 1: Rewind
 
