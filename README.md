@@ -222,11 +222,20 @@ Probabilistic Inference.  *Trends in Cognitive Sciences*
 20.11. 818--829.  https:/doi.org/10.1016/j.tics.2016.08.005
 Quantitative mind reading.
 
-Groenendijk, Jeroen and Martin Stokhof. 1991. Two theories of dynamic semantics. 
-In Jan van Eijck (ed). *Logics in AI. Lectures notes in computer science (Vol. 478)*. 55–64.
+Groenendijk, Jeroen and Martin Stokhof. 1990. Two theories of dynamic semantics. ITLI Prepublications.
+Published in 2005 in Jan van Eijck (ed). *Logics in AI. Lectures notes in computer science (Vol. 478)*. 55–64.
 https://doi.org/10.1007/BFb0018433
-Clear, simple criteria for recognizing some situations in which a dynamic system can be re-engineered 
+Clear, simple criteria (eliminativity and distributivity) 
+for recognizing some situations in which a dynamic system can be re-engineered 
 as a static system.
+
+Groenendijk, Jeroen and Martin Stokhof. 1991. Dynamic Predicate Logic. 
+*Linguistics and Philosophy* 14: 39-100.
+https://doi.org/10.1007%2Fbf00628304
+A tremendously influential paper.  G&S simplify the study of dynamic semantics first by eliminating the natural 
+language part---they only discuss logical formulas, and don't say exactly how to translate from a 
+natural language into their logic---and second, by eliminating possible worlds (only assignment functions
+remain).  A detailed treatment of donkey anaphora.
 
 Groenendijk, Jeroen, Martin Stokhof, and Frank Veltman. 1996. Coreference and modality. 
 https://doi.org/10.1111/b.9780631207498.1997.00010.x
