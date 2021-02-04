@@ -329,6 +329,10 @@ https://doi.org/10.1007/s10988-019-09289-0
 Some portion of force---*sentential force*---is semantic.  
 A carefully thought out manifesto.
 
+Muskens, Reinhard. 1996. Combining Montague semantics and discourse representation. 
+*Linguistics and Philosophy* 19. 143–186. https://doi.org/10.1007/BF00635836
+Super clear and tidy implementation of discourse representation theory.
+
 Nouwen, Rick, Adrian Brasoveanu, Jan van Eijck, and Albert Visser. 2016. Dynamic Semantics. Stanford Encyclopedia of Philosophy.
 https://plato.stanford.edu/entries/dynamic-semantics/
 Authoritative survey.
