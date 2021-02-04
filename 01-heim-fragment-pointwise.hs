@@ -122,19 +122,17 @@ c3 = take (length c2 - 1) c2 -- fresh 1 c3 == False
 
 s1 = try (FA (Num 3) Allowable) c1
 s2 = try (And (Not (FA (Num 3) Allowable)) (FA (The Allowable) Odd)) c1
-s25 = try (And (FA (Num 2) Allowable) (Not (FA (Num 3) Allowable))) c1
-s3 = try (And (FA (Num 2) Allowable)
+s3 = try (And (FA (Num 2) Allowable) (Not (FA (Num 3) Allowable))) c1
+s4 = try (And (FA (Num 2) Allowable)
               (And (Not (FA (Num 3) Allowable))
                    (FA (The (PM Allowable Prime)) Even)))
          c1
-s35 = try (And (FA (The (PM Allowable Prime)) Even)
+s5 = try (And (FA (The (PM Allowable Prime)) Even)
                (And (Not (FA (Num 3) Allowable))
                     (FA (Num 2) Allowable)
          ))
          c1
-s4 = try (If (FA (Num 2) Allowable) (FA (Num 3) Allowable)) c1
--- s5 = try (FA (SuccessorOf (Num 2)) Odd) c1
--- s6 = try (FA (SuccessorOf (Num 5)) Odd) c1
+s6 = try (If (FA (Num 2) Allowable) (FA (Num 3) Allowable)) c1
 s7 = try (If (FA (Var 1) Prime) (FA (Var 1) Even)) c2
 s8 = try (If (FA (Num 3) Prime) (FA (Num 3) Even)) c1
 s9 = try (Every 1 Prime Even) c2
@@ -146,6 +144,3 @@ s14 = try (A 1 Prime Odd) c2
 s15 = try (And (A 1 Prime Even) (FA (SuccessorOf (Var 1)) Odd)) c2
 s16 = try (And (A 1 Prime Odd) (FA (SuccessorOf (Var 1)) Even)) c2
 
-{-
-main = print [s1, s2, s3, s4, s5, s6, s7, s8, s9, s10, s11, s12, s13, s14, s15]
--}
