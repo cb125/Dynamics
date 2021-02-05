@@ -13,7 +13,7 @@ evalTerm :: Term -> [Int] -> Int
 evalTerm (Num n) _ = n
 evalTerm (Var i) g = if i <= length g then g!!(i-1) else 0
 
-evalFor :: For -> [[Int] -> [Int]]
+evalFor :: For -> [[Int]] -> [[Int]]
 -- the values that begin with "filter" are what G&S call "tests"
 evalFor (Even t) gs = filter (\g -> even (evalTerm t g)) gs
 evalFor (Odd t) gs = filter (\g -> odd (evalTerm t g)) gs
@@ -49,3 +49,5 @@ s11 = evalFor (Exists 1 (And (Even (Var 1)) (Exists 2 (And (Odd (Var 2)) (Preced
 s12 = evalFor (If (Exists 1 (And (Even (Var 1)) (Exists 2 (And (Odd (Var 2)) (Precedes (Var 1) (Var 2))))))
                   (Follows (Var 2) (Var 1)))
               [[0,0]]
+
+
