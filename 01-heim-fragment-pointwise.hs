@@ -120,27 +120,90 @@ c1 = [([], n) | n <- [1..5]]
 c2 = [([g],n) | g <- [1..5], n <- [1..5]]
 c3 = take (length c2 - 1) c2 -- fresh 1 c3 == False
 
+-- (3 is allowable)
+--
 s1 = try (FA (Num 3) Allowable) c1
+
+
+-- ((not (3 is allowable)) and (the allowable is odd)): Nothing
+--
 s2 = try (And (Not (FA (Num 3) Allowable)) (FA (The Allowable) Odd)) c1
+
+
+-- ((2 is allowable) and (not (3 is allowable)))
+--
 s3 = try (And (FA (Num 2) Allowable) (Not (FA (Num 3) Allowable))) c1
+
+
+-- ((2 is allowable) and ((not (3 is allowable)) and (the allowable prime is even)))
+--
 s4 = try (And (FA (Num 2) Allowable)
               (And (Not (FA (Num 3) Allowable))
                    (FA (The (PM Allowable Prime)) Even)))
          c1
+
+
+-- ((the allowable prime is even) and ((not (3 is allowable)) and (2 is allowable))): Nothing
+-- bear in mind that 5 does not have a successor in this tiny domain of discourse
+--
 s5 = try (And (FA (The (PM Allowable Prime)) Even)
                (And (Not (FA (Num 3) Allowable))
                     (FA (Num 2) Allowable)
          ))
          c1
+
+
+-- (if (2 is allowable) (3 is allowable))
+--
 s6 = try (If (FA (Num 2) Allowable) (FA (Num 3) Allowable)) c1
+
+
+-- (if (it_1 is prime) (it_1 is even))
 s7 = try (If (FA (Var 1) Prime) (FA (Var 1) Even)) c2
+
+
+-- (if (3 is prime) (3 is even))
+--
 s8 = try (If (FA (Num 3) Prime) (FA (Num 3) Even)) c1
+
+
+-- (every_1 prime is even)
+--
 s9 = try (Every 1 Prime Even) c2
+
+
+-- (every_1 allowable prime is odd)
+--
 s10 = try (Every 1 (PM Allowable Prime) Odd) c2
+
+
+-- (every_1 allowable prime is odd)
+--
 s11 = try (Every 1 (PM Allowable Prime) Odd) c3
+
+
+-- ((not (2 is allowable)) and (every_1 allowable prime is odd))
+--
 s12 = try (And (Not (FA (Num 2) Allowable)) (Every 1 (PM Allowable Prime) Odd)) c3
+
+
+-- (a_1 prime is even)
+--
 s13 = try (A 1 Prime Even) c2
+
+
+-- (a_1 prime is odd)
+--
 s14 = try (A 1 Prime Odd) c2
+
+
+-- ((a_1 prime is even) and (it_1's successor is odd))
+--
 s15 = try (And (A 1 Prime Even) (FA (SuccessorOf (Var 1)) Odd)) c2
+
+
+-- ((a_1 prime is odd) and (it_1's successor is even))
+--
 s16 = try (And (A 1 Prime Odd) (FA (SuccessorOf (Var 1)) Even)) c2
 
+main = print [s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16]
