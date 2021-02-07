@@ -1,19 +1,17 @@
 -- for running in ghci, need to do ":set -package mtl" before loading this file
 
--- Incrementing least unused index should be part of the eval translation; otherwise,
---   indices will depend on which subexpressions have been executed
-
 import Prelude hiding ((<>))
+import Data.List (delete)
 import Text.PrettyPrint
-import Control.Monad.State          -- the State monad tracks the least unused index
+import Control.Monad.State          -- the State monad tracks a list of unused indices
 import Control.Monad.Reader         -- the Reader monad tracks the local context
 import Control.Monad.Trans.Maybe    -- the Maybe monad tracks presupposition failure
 
-type Point = ([Int], Int)           -- assignment sequence, world
-type M a = MaybeT ((ReaderT Point) (State Int)) a  -- monad stack 
-type Mt  = M Bool                   -- Monadic truth value
-type Me  = M Int                    -- Monadic individual
-type Met = M (Int -> Bool)          -- Monadic predicate
+type Point = ([Int], Int)                            -- assignment sequence, world
+type M a = MaybeT ((ReaderT Point) (State [Int])) a  -- our monad stack 
+type Mt  = M Bool                                    -- monadic truth value
+type Me  = M Int                                     -- monadic individual
+type Met = M (Int -> Bool)                           -- monadic predicate
 
 fa :: Me -> Met -> Mt    -- function application, with argument first
 fa ma mf = ma >>= (\a -> mf >>= (\f -> return (f a)))
@@ -28,13 +26,13 @@ notP :: Mt -> Mt
 notP mp = mp >>= (\p -> return (not p))
 
 ifP :: Mt -> Mt -> Mt
--- ifP ma mc = ma >>= (\a -> mc >>= (\c -> return (c || not a)))
 ifP ma mc = ma >>= (\a -> if a then mc else return True)
 
 anP :: Int -> Met -> Met -> Mt
-anP i r s = get >>= (\i -> put (i+1) >> (andP (fa (var i) r) (fa (var i) s)))
--- "get" provides access to the least unused index; "put (i+1)" increments it
--- so this function currently ignores its first input
+anP i r s =
+  get >>= (\is -> if elem i is
+                    then put (delete i is) >> (andP (fa (var i) r) (fa (var i) s))
+                    else mzero)
 
 the :: Met -> Me         -- presupposes a singleton extension
 the mf = mf >>= (\f -> let ext = filter f [1..5] in
@@ -48,22 +46,34 @@ allowable = ask >>= (\(_,w) -> return (< w))
 
 var :: Int -> Me         -- assigment-sensitive individual
 var n = ask >>= (\(g,_) -> return (if n <= length g then g!!(n-1) else 0))
+-- To do: if n is still on the list of fresh variables, should be a familiarity violation
 
 replaceAt :: Int -> a -> [a] -> [a]    
 replaceAt i x xs = take i xs ++ [x] ++ drop (i+1) xs
 
 everyP :: Int -> Met -> Met -> Mt
-everyP i r s = get >>= (\i -> put (i+1) >>
-  foldl (\mt n -> local (\(g,w) -> (replaceAt (i-1) n g, w))       -- ***
-                        (andP mt (ifP (fa (var i) r) (fa (var i) s))))
-        (return True)
-        [1..5])
+everyP i r s =
+  get >>= (\is -> if elem i is
+                    then put (delete i is) >>
+                           foldl (\mt n -> local (\(g,w) -> (replaceAt (i-1) n g, w))
+                                 (andP mt (ifP (fa (var i) r) (fa (var i) s))))
+                                 (return True)
+                                 [1..5]
+                    else mzero)
 
 fresh :: Int -> [Point] -> Bool  -- Heim's (22)
 fresh i con = all (\(g, w) -> all (\n -> let g' = replaceAt (i-1) n g in
                                            elem (g, w) con == elem (g', w) con)
                                   [1..5])
                   con
+
+try :: S -> [Point] -> Doc
+try s c =
+  let freshVars = filter (\i -> fresh i c) [1..(length c)] in
+    prettyS s
+    <> text ":\n" 
+    <+> (text (show (filterM (\p -> evalState ((runReaderT (runMaybeT (eval s))) p) freshVars) c)))
+    <> text "\n\n"
 
 -- ------------------
 
@@ -121,10 +131,6 @@ prettyPred Allowable = text "allowable"
 prettyPred Even = text "even"
 prettyPred Odd = text "odd"
 prettyPred Prime = text "prime"
-
-try :: S -> [Point] -> Doc
-try s c = prettyS s <> text ":\n" <+>
-          (text (show (filterM (\p -> evalState ((runReaderT (runMaybeT (eval s))) p) 1) c))) <> text "\n\n"
 
 c0 = [([], n) | n <- [1..5]]
 c1 = [([g],n) | g <- [1..5], n <- [1..5]]
@@ -197,5 +203,9 @@ s17 = try (And (And (A 1 Prime Even)(A 2 Prime Odd)) (Preceeds (Var 2)(Var 1))) 
 -- (if ((a_1 prime is even) and (a_2 prime is odd)) (it_2 succeeds it_1))
 -- this one is a massive fail for using material implication to approximate the conditional
 s18 = try (If (And (A 1 Prime Even)(A 2 Prime Odd)) (Succeeds (Var 2)(Var 1))) c2
+
+s19 = try (A 1 Prime Even) c0 -- as in Heim, trying to use an unfresh index is a presupposition violation
+
+s20 = try (A 1 Prime Even) c1
 
 main = print [s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16,s17,s18]
