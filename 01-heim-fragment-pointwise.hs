@@ -1,14 +1,19 @@
 -- for running in ghci, need to do ":set -package mtl" before loading this file
 
+-- Incrementing least unused index should be part of the eval translation; otherwise,
+--   indices will depend on which subexpressions have been executed
+
 import Prelude hiding ((<>))
 import Text.PrettyPrint
-import Control.Monad.Reader                -- the Reader monad tracks the local context
-import Control.Monad.Trans.Maybe           -- the Maybe monad tracks presupposition failure
+import Control.Monad.State          -- the State monad tracks the least unused index
+import Control.Monad.Reader         -- the Reader monad tracks the local context
+import Control.Monad.Trans.Maybe    -- the Maybe monad tracks presupposition failure
 
-type Point = ([Int], Int)                      -- pair: assignment sequence, world
-type Mt  = MaybeT (Reader Point) Bool          -- Monadic truth value
-type Me  = MaybeT (Reader Point) Int           -- Monadic individual
-type Met = MaybeT (Reader Point) (Int -> Bool) -- Monadic predicate
+type Point = ([Int], Int)           -- assignment sequence, world
+type M a = MaybeT ((ReaderT Point) (State Int)) a  -- monad stack 
+type Mt  = M Bool                   -- Monadic truth value
+type Me  = M Int                    -- Monadic individual
+type Met = M (Int -> Bool)          -- Monadic predicate
 
 fa :: Me -> Met -> Mt    -- function application, with argument first
 fa ma mf = ma >>= (\a -> mf >>= (\f -> return (f a)))
@@ -17,16 +22,19 @@ pm :: Met -> Met -> Met  -- predicate modification
 pm ml mr = ml >>= (\l -> mr >>= (\r -> return (\x -> and [l x, r x])))
 
 andP :: Mt -> Mt -> Mt
-andP ml mr = ml >>= (\l -> if l then mr else ml)
+andP ml mr = ml >>= (\l -> if l then mr else return False)
 
 notP :: Mt -> Mt
 notP mp = mp >>= (\p -> return (not p))
 
 ifP :: Mt -> Mt -> Mt
+-- ifP ma mc = ma >>= (\a -> mc >>= (\c -> return (c || not a)))
 ifP ma mc = ma >>= (\a -> if a then mc else return True)
 
 anP :: Int -> Met -> Met -> Mt
-anP i r s = andP (fa (var i) r) (fa (var i) s)
+anP i r s = get >>= (\i -> put (i+1) >> (andP (fa (var i) r) (fa (var i) s)))
+-- "get" provides access to the least unused index; "put (i+1)" increments it
+-- so this function currently ignores its first input
 
 the :: Met -> Me         -- presupposes a singleton extension
 the mf = mf >>= (\f -> let ext = filter f [1..5] in
@@ -45,29 +53,29 @@ replaceAt :: Int -> a -> [a] -> [a]
 replaceAt i x xs = take i xs ++ [x] ++ drop (i+1) xs
 
 everyP :: Int -> Met -> Met -> Mt
-everyP i r s =
-  foldl (\mt n -> local (\(g,w) -> (replaceAt (i-1) n g, w))
+everyP i r s = get >>= (\i -> put (i+1) >>
+  foldl (\mt n -> local (\(g,w) -> (replaceAt (i-1) n g, w))       -- ***
                         (andP mt (ifP (fa (var i) r) (fa (var i) s))))
         (return True)
-        [1..5]
+        [1..5])
 
-{-
-fresh :: Int -> Context -> Bool  -- Heim's (22)
+fresh :: Int -> [Point] -> Bool  -- Heim's (22)
 fresh i con = all (\(g, w) -> all (\n -> let g' = replaceAt (i-1) n g in
                                            elem (g, w) con == elem (g', w) con)
                                   [1..5])
                   con
--}
 
 -- ------------------
 
-data S = FA DP Pred | And S S | Not S | If S S | Every Int Pred Pred | A Int Pred Pred
-           deriving (Eq, Show)
-data DP = Num Int | Var Int | The Pred | SuccessorOf DP | Double DP deriving (Eq, Show)
+data S = FA DP Pred | Succeeds DP DP | Preceeds DP DP | And S S | Not S | If S S
+         | Every Int Pred Pred | A Int Pred Pred deriving (Eq, Show)
+data DP = Num Int | Var Int | The Pred | SuccessorOf DP deriving (Eq, Show)
 data Pred = PM Pred Pred | Allowable | Even | Odd | Prime deriving (Eq, Show)
 
 eval :: S -> Mt
 eval (FA subj pred) = fa (evalDP subj) (evalPred pred)
+eval (Succeeds dp1 dp2) = evalDP dp1 >>= (\l -> evalDP dp2 >>= (\r -> return (l > r)))
+eval (Preceeds dp1 dp2) = evalDP dp1 >>= (\l -> evalDP dp2 >>= (\r -> return (l < r)))
 eval (And l r) = andP (eval l) (eval r)
 eval (Not p) = notP (eval p)
 eval (If a c) = ifP (eval a) (eval c)
@@ -91,6 +99,8 @@ evalPred (PM l r) = pm (evalPred l) (evalPred r)
 
 prettyS :: S -> Doc
 prettyS (FA subj pred) = parens $ (prettyDP subj) <+> text "is" <+> (prettyPred pred)
+prettyS (Succeeds dp1 dp2) = parens $ (prettyDP dp1) <+> text "succeeds" <+> (prettyDP dp2)
+prettyS (Preceeds dp1 dp2) = parens $ (prettyDP dp1) <+> text "preceeds" <+> (prettyDP dp2)
 prettyS (And l r) = parens $ (prettyS l) <+> text "and" <+> (prettyS r)
 prettyS (Not p) = parens $ text "not" <+> (prettyS p)
 prettyS (If a c) = parens $ text "if" <+> (prettyS a) <+> (prettyS c)
@@ -113,97 +123,79 @@ prettyPred Odd = text "odd"
 prettyPred Prime = text "prime"
 
 try :: S -> [Point] -> Doc
-try s c = prettyS s <> text ":" <+>
-          (text (show (filterM (runReader (runMaybeT (eval s))) c))) <> text "\n"
+try s c = prettyS s <> text ":\n" <+>
+          (text (show (filterM (\p -> evalState ((runReaderT (runMaybeT (eval s))) p) 1) c))) <> text "\n\n"
 
-c1 = [([], n) | n <- [1..5]]
-c2 = [([g],n) | g <- [1..5], n <- [1..5]]
-c3 = take (length c2 - 1) c2 -- fresh 1 c3 == False
+c0 = [([], n) | n <- [1..5]]
+c1 = [([g],n) | g <- [1..5], n <- [1..5]]
+c2 = [(g,n) | g <- [[v1,v2] | v1 <- [1..5], v2 <- [1..5]], n <- [1..5]]
+
+t1 = fresh 1 c1
+t2 = fresh 1 c2
+t3 = fresh 2 c2
 
 -- (3 is allowable)
---
-s1 = try (FA (Num 3) Allowable) c1
-
-
--- ((not (3 is allowable)) and (the allowable is odd)): Nothing
---
-s2 = try (And (Not (FA (Num 3) Allowable)) (FA (The Allowable) Odd)) c1
-
+s1 = try (FA (Num 3) Allowable) c0
 
 -- ((2 is allowable) and (not (3 is allowable)))
---
-s3 = try (And (FA (Num 2) Allowable) (Not (FA (Num 3) Allowable))) c1
-
+s2 = try (And (FA (Num 2) Allowable) (Not (FA (Num 3) Allowable))) c0
 
 -- ((2 is allowable) and ((not (3 is allowable)) and (the allowable prime is even)))
---
-s4 = try (And (FA (Num 2) Allowable)
+s3 = try (And (FA (Num 2) Allowable)
               (And (Not (FA (Num 3) Allowable))
                    (FA (The (PM Allowable Prime)) Even)))
-         c1
-
+         c0
 
 -- ((the allowable prime is even) and ((not (3 is allowable)) and (2 is allowable))): Nothing
 -- bear in mind that 5 does not have a successor in this tiny domain of discourse
---
-s5 = try (And (FA (The (PM Allowable Prime)) Even)
+s4 = try (And (FA (The (PM Allowable Prime)) Even)
                (And (Not (FA (Num 3) Allowable))
                     (FA (Num 2) Allowable)
          ))
-         c1
-
+         c0
 
 -- (if (2 is allowable) (3 is allowable))
---
-s6 = try (If (FA (Num 2) Allowable) (FA (Num 3) Allowable)) c1
-
+-- remember, "if" is material implication in Heim's fragment
+s5 = try (If (FA (Num 2) Allowable) (FA (Num 3) Allowable)) c0
 
 -- (if (it_1 is prime) (it_1 is even))
-s7 = try (If (FA (Var 1) Prime) (FA (Var 1) Even)) c2
-
+s6 = try (If (FA (Var 1) Prime) (FA (Var 1) Even)) c1
 
 -- (if (3 is prime) (3 is even))
---
-s8 = try (If (FA (Num 3) Prime) (FA (Num 3) Even)) c1
-
+s7 = try (If (FA (Num 3) Prime) (FA (Num 3) Even)) c1
 
 -- (every_1 prime is even)
---
-s9 = try (Every 1 Prime Even) c2
-
+s8 = try (Every 1 Prime Even) c1
 
 -- (every_1 allowable prime is odd)
---
-s10 = try (Every 1 (PM Allowable Prime) Odd) c2
-
-
--- (every_1 allowable prime is odd)
---
-s11 = try (Every 1 (PM Allowable Prime) Odd) c3
-
+s9 = try (Every 1 (PM Allowable Prime) Odd) c1
 
 -- ((not (2 is allowable)) and (every_1 allowable prime is odd))
---
-s12 = try (And (Not (FA (Num 2) Allowable)) (Every 1 (PM Allowable Prime) Odd)) c3
-
+s10 = try (And (Not (FA (Num 2) Allowable)) (Every 1 (PM Allowable Prime) Odd)) c1
 
 -- (a_1 prime is even)
---
-s13 = try (A 1 Prime Even) c2
-
+s11 = try (A 1 Prime Even) c1
 
 -- (a_1 prime is odd)
---
-s14 = try (A 1 Prime Odd) c2
-
+s12 = try (A 1 Prime Odd) c1
 
 -- ((a_1 prime is even) and (it_1's successor is odd))
---
-s15 = try (And (A 1 Prime Even) (FA (SuccessorOf (Var 1)) Odd)) c2
-
+s13 = try (And (A 1 Prime Even) (FA (SuccessorOf (Var 1)) Odd)) c1
 
 -- ((a_1 prime is odd) and (it_1's successor is even))
---
-s16 = try (And (A 1 Prime Odd) (FA (SuccessorOf (Var 1)) Even)) c2
+s14 = try (And (A 1 Prime Odd) (FA (SuccessorOf (Var 1)) Even)) c1
 
-main = print [s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16]
+-- ((a_1 prime is even) and (a_2 prime is odd))
+s15 = try (And (A 1 Prime Even) (A 2 Prime Odd)) c2
+
+-- (((a_1 prime is even) and (a_2 prime is odd)) and (it_2 succeeds it_1))
+s16 = try (And (And (A 1 Prime Even)(A 2 Prime Odd)) (Succeeds (Var 2)(Var 1))) c2
+
+-- (((a_1 prime is even) and (a_2 prime is odd)) and (it_2 preceeds it_1))
+s17 = try (And (And (A 1 Prime Even)(A 2 Prime Odd)) (Preceeds (Var 2)(Var 1))) c2
+
+-- (if ((a_1 prime is even) and (a_2 prime is odd)) (it_2 succeeds it_1))
+-- this one is a massive fail for using material implication to approximate the conditional
+s18 = try (If (And (A 1 Prime Even)(A 2 Prime Odd)) (Succeeds (Var 2)(Var 1))) c2
+
+main = print [s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16,s17,s18]
