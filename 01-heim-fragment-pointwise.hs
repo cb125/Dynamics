@@ -46,7 +46,7 @@ allowable = ask >>= (\(_,w) -> return (< w))
 
 var :: Int -> Me         -- assigment-sensitive individual
 var n = ask >>= (\(g,_) -> return (if n <= length g then g!!(n-1) else 0))
--- To do: if n is still on the list of fresh variables, should be a familiarity violation
+-- To do: remove n from the list of unused fresh variables
 
 replaceAt :: Int -> a -> [a] -> [a]    
 replaceAt i x xs = take i xs ++ [x] ++ drop (i+1) xs
