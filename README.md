@@ -137,6 +137,12 @@ https://doi.org/10.1093/jos/fft014
 "[T]he two kinds of content [at-issue versus appositive] must be integrated into a single, incrementally evolving semantic representation."  
 Appositives *impose* an update on the context set, at-issue content *proposes* an update.
 
+Beaver, David. 2001. *Presupposition and Assertion in Dynamic Semantics*.  CSLI Publications.
+A terrific book filling out the details of the program sketched in Heim 1983.  
+Valuable discussion of the basics of presupposition.
+Later chapters include an interesting proposal 
+for a formal theory of the semantics/accommodation interface.
+
 Bittner, Maria. 2014. Perspectival discourse referents for indexicals.
 In Hannah Greene (ed). *SULA 7: Proceedings of the Seventh Meeting on the Semantics of Under-represented Languages in the Americas*. 1–22.
 A dynamics for indexicals, including some shifty indexicals, parallel to the dynamics for anaphora.
