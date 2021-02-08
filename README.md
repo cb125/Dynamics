@@ -53,12 +53,13 @@ See bibliography below for full citation details.
    presupposition projection.  I'll say what it means for a semantics to be dynamic,
    and I'll articulate the Dynamic Quandry: either we compute content based on 
    an ever-changing context beyond our control, or we try to control the context, and fail.
-   [Slides for the discussion](https://github.com/cb125/Dynamics/blob/main/01-heim-slides.pdf).
-   Assigned reading: [Heim 1983](https://github.com/cb125/Dynamics/blob/main/Papers/heim-1983-projection-problem.pdf).  Secondary
-   readings: [Lewis 1979](https://github.com/cb125/Dynamics/blob/main/Papers/lewis-scorekeeping.pdf) (Scorekeeping); [Harris 2019](https://github.com/cb125/Dynamics/blob/main/Papers/harris-2019_WeTalkToPeopleNotContexts.pdf).  
-   **Haskell code** of an implementation of Heim's fragment is available [here](https://github.com/cb125/Dynamics/blob/main/01-heim.hs).  
-   Notes on the implementation [here](https://github.com/cb125/Dynamics/blob/main/01-heim-fragment.pdf).
-   A refactoring of Heim's fragment that is both eliminative and distributive (pointwise) [here](https://github.com/cb125/Dynamics/blob/main/01-heim-fragment-pointwise.hs).
+    * [Slides for the discussion](https://github.com/cb125/Dynamics/blob/main/01-heim-slides.pdf).
+    * Assigned reading: [Heim 1983](https://github.com/cb125/Dynamics/blob/main/Papers/heim-1983-projection-problem.pdf).  
+    * Secondary readings: [Lewis 1979](https://github.com/cb125/Dynamics/blob/main/Papers/lewis-scorekeeping.pdf) (Scorekeeping); [Harris 2019](https://github.com/cb125/Dynamics/blob/main/Papers/harris-2019_WeTalkToPeopleNotContexts.pdf).  
+    * Code: 
+      * An implementation of Heim's fragment is available [here](https://github.com/cb125/Dynamics/blob/main/01-heim.hs).  
+        - Notes on the implementation [here](https://github.com/cb125/Dynamics/blob/main/01-heim-fragment.pdf).
+      * A refactoring of Heim's fragment that is both eliminative and distributive (pointwise) [here](https://github.com/cb125/Dynamics/blob/main/01-heim-fragment-pointwise.hs).
 
 ### Unit 1: Rewind
 
