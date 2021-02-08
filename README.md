@@ -46,14 +46,14 @@ conditions of our connectives."
 
 ## Tentative schedule
 
-See [bibliography](https://github.com/cb125/Materials/bibliography.md) for full citation details.
+See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) for full citation details.
 
 1. 3 Feb. **Overview**: sketch of how the seminar might go.  I'll present
    the simple system of Heim 1983, which aims at anaphora and
    presupposition projection.  I'll say what it means for a semantics to be dynamic,
    and I'll articulate the Dynamic Quandry: either we compute content based on 
    an ever-changing context beyond our control, or we try to control the context, and fail.
-    * [Slides for the discussion](https://github.com/cb125/Dynamics/blob/main/01-heim-slides.pdf).
+    * [Slides for the discussion](https://github.com/cb125/Dynamics/blob/main/Materials/01-heim-slides.pdf).
     * Assigned reading: [Heim 1983](https://github.com/cb125/Dynamics/blob/main/Papers/heim-1983-projection-problem.pdf).  
     * Secondary readings: [Lewis 1979](https://github.com/cb125/Dynamics/blob/main/Papers/lewis-scorekeeping.pdf) (Scorekeeping); [Harris 2019](https://github.com/cb125/Dynamics/blob/main/Papers/harris-2019_WeTalkToPeopleNotContexts.pdf).  
     * Code: 
