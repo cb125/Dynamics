@@ -227,6 +227,8 @@ Discourse is a game with context as a scoreboard organized around the *questions
 Roberts, Craige. 2017.  Linguistic convention and the architecture of interpretation. *Analytic Philosophy* 58.4. 418-439.
 A critique of Lepore and Stone's 2015 book, *Imagination and Convention*.  Considering a wide range evidence from linguistics and psycholinguistics and beyond, Roberts argues for Gricean considerations as parallel to other constraints on meaning.
 
+Rothschild, Daniel, and Stephen Yablo. 2020. Permissive updates. Ms. Truthmaker semantics for deontic modality, along with bridge principles for the semantics/pragmatics interface.
+
 Rothschild, Daniel, and Seth Yalcin. 2016. Three notions of dynamicness in language. *Linguistics and Philosophy* 39. 333–355.
 https://doi.org/10.1007/s10988-016-9188-1.  A provocative paper offering technical criteria for counting as genuinely dynamic.
 
