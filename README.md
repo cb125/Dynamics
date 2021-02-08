@@ -57,18 +57,15 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
     * Assigned reading: [Heim 1983](https://github.com/cb125/Dynamics/blob/main/Papers/heim-1983-projection-problem.pdf).  
     * Secondary readings: [Lewis 1979](https://github.com/cb125/Dynamics/blob/main/Papers/lewis-scorekeeping.pdf) (Scorekeeping); [Harris 2019](https://github.com/cb125/Dynamics/blob/main/Papers/harris-2019_WeTalkToPeopleNotContexts.pdf).  
     * Code: 
-      * An implementation of Heim's fragment is available [here](https://github.com/cb125/Dynamics/blob/main/Materials/01-heim.hs).  
+      * An implementation of Heim's fragment with problem set [here](https://github.com/cb125/Dynamics/blob/main/Materials/01-heim.hs).  
         - Notes on the implementation [here](https://github.com/cb125/Dynamics/blob/main/Materials/01-heim-fragment.pdf).
       * A refactoring of Heim's fragment that is both eliminative and distributive (pointwise) [here](https://github.com/cb125/Dynamics/blob/main/Materials/01-heim-fragment-pointwise.hs).
 
 ### Unit 1: Rewind
 
 2. 10 Feb. [Dynamic Predicate Logic](https://github.com/cb125/Dynamics/blob/main/Papers/groenendijk-stokhof-dpl.pdf).  1991.  Gronendijk and Stokhof.
-   Truth conditions of donkey sentences as a dynamic setpiece.  Now
-   update is primary, and truth is derived.  Predecessor and
-   inspiration: Pratt's Dynamic Logic.  Important variants: Dekker's
-   PLA, Musken's CDRT, van den Berg's Plural Information States, 
-   de Groote's continuation-based Montagovian dynamics.
+   Truth conditions of donkey sentences as a dynamic setpiece.  Now update is primary, and truth is derived.  Predecessor and inspiration: Pratt's Dynamic Logic.  Important variants: Dekker's PLA, Musken's CDRT, van den Berg's Plural Information States, de Groote's continuation-based Montagovian dynamics.
+      * Implementation and problem set [here](https://github.com/cb125/Dynamics/blob/main/Materials/02-dpl.hs).
 
 3. 17 Feb. [Coreference and Modality](https://github.com/cb125/Dynamics/blob/main/Papers/gsv-coreference-and-modality.pdf).  1996. Gronendijk, Stokhof and
    Veltmann.  Dynamic anaphora meets epistemic update.  A high water
@@ -90,8 +87,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
 ### Unit 2: Fast Forward
 
 6. 10 Mar. [Discourse dynamics, pragmatics, and
-   indefinites](https://github.com/cb125/Dynamics/blob/main/Papers/lewis2012_DiscourseDynamicsPragmaticsAnd.pdf). 2012. Karen Lewis.  Even the ability of an indefinite
-   to contribute a new discourse referent is negotiable.
+   indefinites](https://github.com/cb125/Dynamics/blob/main/Papers/lewis2012_DiscourseDynamicsPragmaticsAnd.pdf). 2012. Karen Lewis.  Even the ability of an indefinite to contribute a new discourse referent is negotiable.
 
 7. 17 Mar. [Varieties of update](https://github.com/cb125/Dynamics/blob/main/Papers/murray-2014-varieties-of-update.pdf). 2014.  Sarah Murray. Some update is
    non-negotiable, including evidential inferences in Cheyenne.
