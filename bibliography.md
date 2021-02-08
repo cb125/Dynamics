@@ -7,6 +7,8 @@ https://doi.org/10.1093/jos/fft014
 "[T]he two kinds of content [at-issue versus appositive] must be integrated into a single, incrementally evolving semantic representation."  
 Appositives *impose* an update on the context set, at-issue content *proposes* an update.
 
+Barker, Chris and Chung-chieh Shan. 2014. *Continuations and Natural Language*. Oxford University Press.  An in-depth treatment of evaluation order, with careful consideration of quantificational binding and weak crossover.
+
 Beaver, David. 2001. *Presupposition and Assertion in Dynamic Semantics*.  CSLI Publications.
 A terrific book filling out the details of the program sketched in Heim 1983.  
 Valuable discussion of the basics of presupposition.
