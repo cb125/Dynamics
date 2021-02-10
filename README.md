@@ -74,7 +74,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    mark in the old school style of dynamical systems.  Fascinating
    fragment that makes subtle predictions about how epistemic state
    influences truth.  I'll present a refactored fragment based on work
-   of Jim Pryor.  [Notes on GSV from a seminar Jim and I taught in 2015](http://lambda.jimpryor.net/topics/week10_gsv/).
+   of Jim Pryor.  [Notes on GSV from a seminar Jim Pryor and I taught in 2015](http://lambda.jimpryor.net/topics/week10_gsv/).
 
 4. 24 Feb. A case for, and a case against, dynamic semantics, both sides argued by Philippe Schlenker:
    * [Anti-dynamics](https://github.com/cb125/Dynamics/blob/main/Papers/schlenker2007_Anti-dynamicsPresuppositionPro.pdf). 2007. Validating
