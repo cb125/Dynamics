@@ -65,6 +65,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
 
 2. 10 Feb. [Dynamic Predicate Logic](https://github.com/cb125/Dynamics/blob/main/Papers/groenendijk-stokhof-dpl.pdf).  1991.  Gronendijk and Stokhof.
    Truth conditions of donkey sentences as a dynamic setpiece.  Now update is primary, and truth is derived.  Predecessor and inspiration: Pratt's Dynamic Logic.  Important variants: Dekker's PLA, Musken's CDRT, van den Berg's Plural Information States, de Groote's continuation-based Montagovian dynamics.
+      * Slides [here](https://github.com/cb125/Dynamics/blob/main/Materials/02-dpl-slides.pdf).
       * Notes on evaluation order from chapter 12 of Barker and Shan 2014 [here](https://github.com/cb125/Dynamics/blob/main/Materials/02-notes-eval-order.pdf).
       * Implementation and problem set [here](https://github.com/cb125/Dynamics/blob/main/Materials/02-dpl.hs).
 
