@@ -88,6 +88,12 @@ https://doi.org/10.1126/science.1218633
 Rational Speech Act theory in one page.
 See Scontras et al. for a tutorial.
 
+George, B. R. 2014. 
+Some remarks on certain trivalent accounts of presupposition projection
+*Journal of Applied Non-Classical Logics* 
+24.1–2, 86–117. http://dx.doi.org/10.1080/11663081.2014.911521
+Argues that the right three-valued truth tables can meet Schlenker's explanatory challenge.
+
 Gilles, Anthony. 2020.
 Updating Data Semantics.
 *Mind* 129.513. 1--41.
@@ -143,6 +149,10 @@ Semantics without semantic content.
 *Mind and Language* 1-25.
 https://doi.org/10.1111/mila.12290
 The semantic component produces constraints on possible contents (so let general cognition worry about update).
+
+Heim, Irene. 1982. *The semantics of definite and indefinite noun phrases*.
+UMass PhD dissertation.  Available at [semanticsarchive.net](https://semanticsarchive.net).
+A companion to her 1983 paper in which she develops a dynamic semantics in chapter 3 that focusses on bound anaphora and donkey sentences rather than on presupposition projection.  The treatment of negation in this version is dynamically closed, unlike in the 1983 paper.
 
 Heim, Irene. 1983/1988/2008. On the Projection Problem for Presuppositions. 
 Written in 1983 for WCFFL2; published in the proceedings of WCCFL in 1988; reprinted 
