@@ -225,6 +225,11 @@ Nouwen, Rick, Adrian Brasoveanu, Jan van Eijck, and Albert Visser. 2016. Dynamic
 https://plato.stanford.edu/entries/dynamic-semantics/
 Authoritative survey.
 
+Pryor, James. 2017. De Jure Codesignation.
+In Bob Hale, Alex Miller, and Crispin Wright (eds).
+*A Companion to the Philosophy of Language, 2nd edition*.  Blackwell.
+1033-1079.  Sophisticated thinking about different ways that variables can have the same values. 
+
 Qing, Ciyang, Noah Goodman, and Daniel Lassiter. 2016.
 A rational speech-act model of projective content.
 *Proceedings of the 38th Annual Conference of the Cognitive Science Society*.
