@@ -53,7 +53,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    presupposition projection.  I'll say what it means for a semantics to be dynamic,
    and I'll articulate the Dynamic Quandry: either we compute content based on 
    an ever-changing context beyond our control, or we try to control the context, and fail.
-    * [Slides for the discussion](https://github.com/cb125/Dynamics/blob/main/Materials/01-heim-slides.pdf).
+    * Slides [here](https://github.com/cb125/Dynamics/blob/main/Materials/01-heim-slides.pdf).
     * Assigned reading: [Heim 1983](https://github.com/cb125/Dynamics/blob/main/Papers/heim-1983-projection-problem.pdf).  
     * Secondary readings: [Lewis 1979](https://github.com/cb125/Dynamics/blob/main/Papers/lewis-scorekeeping.pdf) (Scorekeeping); [Harris 2019](https://github.com/cb125/Dynamics/blob/main/Papers/harris-2019_WeTalkToPeopleNotContexts.pdf).  
     * Code: 
@@ -75,6 +75,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    fragment that makes subtle predictions about how epistemic state
    influences truth.  I'll present a refactored fragment based on work
    of Jim Pryor.  
+   * Slides [here](https://github.com/cb125/Dynamics/blob/main/Materials/03-gsv-slides.pdf).
    * [Notes on GSV from a seminar Jim Pryor and I taught in 2015](http://lambda.jimpryor.net/topics/week10_gsv/).
    * Implementation and problem set [here](https://github.com/cb125/Dynamics/blob/main/Materials/03-gsv.hs)
 
