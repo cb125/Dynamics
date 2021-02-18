@@ -313,3 +313,8 @@ by deploying anaphora (variable bindings) and presuppositions (exceptions)?
 Willer, Malte. 2018. Simplifying with Free Choice. *Topoi* 37.3. 379–392
 https://doi.org/10.1007/s11245-016-9437-5.
 Tracking positive and negative updates accounts for free choice implications.
+
+Szabo, Zoltan. 2000. Descriptions and Uniqueness.
+*Philosophical Studies* 101: 29 – 57.
+A discussion of novelty and familiarity, and the division of labor between semantics and pragmatics.  Lots of thought-provoking examples.
+
