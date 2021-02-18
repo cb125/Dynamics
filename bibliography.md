@@ -30,6 +30,12 @@ states versus non-atomic individuals.
 https://doi.org/10.1007/s10988-008-9035-0
 Two kinds of plurality: ontological, and discourse update-y.  Lots of donkeys.
 
+Daniel Büring.  1998. Modality, and the Candidate Behind the Wall.
+In Devon Strolovitch and Aaron Lawson (eds).
+*Proceedings of Semantics and Linguistic Theory* 8: 36-54.
+https://doi.org/10.3765/salt.v8i0.2805 
+Great paper on Broken Vase scenarios.
+
 Bumford, Dylan. 2015. Incremental quantification and the dynamics of
 pair-list phenomena.  *Semantics and Pragmatics* 8.9. 1--70. 
 https://doi.org/10.3765/sp.8.9
