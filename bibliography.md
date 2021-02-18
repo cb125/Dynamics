@@ -124,6 +124,8 @@ Probabilistic Inference.  *Trends in Cognitive Sciences*
 20.11. 818--829.  https:/doi.org/10.1016/j.tics.2016.08.005
 Quantitative mind reading.
 
+Gotham, Matthew. 2019. Double negation, excluded middle and accessibility in dynamic semantics. *Proceedings of the 22nd Amsterdam Colloquium* 22.  Accessibility of expressions in the scope of negation; treatment of double negation.
+
 Groenendijk, Jeroen and Martin Stokhof. 1990. Two theories of dynamic semantics. ITLI Prepublications.
 Published in 2005 in Jan van Eijck (ed). *Logics in AI. Lectures notes in computer science (Vol. 478)*. 55–64.
 https://doi.org/10.1007/BFb0018433
