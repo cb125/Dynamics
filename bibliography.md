@@ -63,6 +63,13 @@ Cumulative readings and multiple modified numerals.  Higher-order
 quantifiers versus relations on *sets* of assignments.  New
 argument that an update semantics solves content problems.
 
+Chierchia, Gennaro. 1992. Anaphora and Dynamic Binding. *Linguistics and Philosophy* 15: 111-183. Prolegomena to the 1995 book.
+
+Chierchia, Gennaro. 1995. *Dynamics of Meaning. Anaphora, Presupposition and the Theory of Grammar*. University of Chicago Press.
+Includes the argument that the conservativity of determiners follows from the left to right dynamics of determiners.  
+
+Chierchia, Gennaro. 2020. Origins of Weak Crossover: when Dynamic Semantics meets Event Semantics. *Natural Language Semantics* 28: 23–76. [Haven't seen it yet--could be interesting!]
+
 Cresswell, Max. 2002. Static semantics for dynamic discourse. *Linguistics and Philosophy* 25. 545--571.
 https://doi.org/10.1023/A:1020834910542
 Data motivating dynamic semantics "simply shows that truth-conditional 
