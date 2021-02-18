@@ -1,5 +1,10 @@
 # Bibliography (lightly annotated)
 
+Aloni, Maria. 1997. Quantification in Dynamic Semantics. In Paul Dekker, Martin Stokhof, and Yde Venema (eds). *Proceedings of the Eleventh Amsterdam Colloquium*.
+Thinking about the dynamics of identity and properties.
+
+Aloni, Maria. 2000. Conceptual Covers in Dynamic Semantics. In Lawrence Cavedon, Patrick Blackburn, Nick Braisby, and Atsushi Shimojima (eds).  *Logic, Language and Computation, Vol. III*. CSLI, Stanford, CA.
+
 AnderBois, Scott, Adrian Brasoveanu, and Robert Henderson. 2015.
 At-issue proposals and appositive impositions in discourse.
 *Journal of Semantics* 32.1. 93-138. 
@@ -30,7 +35,7 @@ states versus non-atomic individuals.
 https://doi.org/10.1007/s10988-008-9035-0
 Two kinds of plurality: ontological, and discourse update-y.  Lots of donkeys.
 
-Daniel Büring.  1998. Modality, and the Candidate Behind the Wall.
+Büring, Daniel.  1998. Modality, and the Candidate Behind the Wall.
 In Devon Strolovitch and Aaron Lawson (eds).
 *Proceedings of Semantics and Linguistic Theory* 8: 36-54.
 https://doi.org/10.3765/salt.v8i0.2805 
