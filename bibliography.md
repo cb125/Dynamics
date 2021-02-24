@@ -273,6 +273,12 @@ Information* 16. 325–356.  https://doi.org/10.1007/s10849-006-9034-x
 Heim's program for deriving presuppositions from truth conditions misses an important generalization.
 Better to keep content as static truth conditions, and account for presuppositions via an independent mechanism.
 
+Schlenker, P. 2008a. Be articulate: A pragmatic theory of presupposition projection. *Theoretical
+Linguistics* 34, 157–212.
+
+Schlenker, P. 2008b. Presupposition projection: Explanatory strategies. *Theoretical Linguistics* 34,
+287–316.
+
 Schlenker, Philippe. 2011. Donkey anaphora: the view from sign
 language (ASL and LSF).  *Linguistics and Philosophy* 34. 341–395.
 https://doi.org/10.1007/s10988-011-9098-1
