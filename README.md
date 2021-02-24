@@ -75,17 +75,21 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    fragment that makes subtle predictions about how epistemic state
    influences truth.  I'll present a refactored fragment based on work
    of Jim Pryor.  
-   * Slides [here](https://github.com/cb125/Dynamics/blob/main/Materials/03-gsv-slides.pdf).
+   * Handout [here](https://github.com/cb125/Dynamics/blob/main/Materials/03-gsv-slides.pdf).
    * [Notes on GSV from a seminar Jim Pryor and I taught in 2015](http://lambda.jimpryor.net/topics/week10_gsv/).
    * Implementation and problem set [here](https://github.com/cb125/Dynamics/blob/main/Materials/03-gsv.hs)
 
 4. 24 Feb. A case for, and a case against, dynamic semantics, both sides argued by Philippe Schlenker:
+   * Handout [here](https://github.com/cb125/Dynamics/blob/main/Materials/04-schlenker-handout.pdf)
    * [Anti-dynamics](https://github.com/cb125/Dynamics/blob/main/Papers/schlenker2007_Anti-dynamicsPresuppositionPro.pdf). 2007. Validating
      classical logic should be a design goal.  Case study: 
      accounting for presupposition projection in a
      static semantics.  
    * [The view from sign language](https://github.com/cb125/Dynamics/blob/main/Papers/schlenker-2011_DonkeyAnaphoraTheViewFromSignL.pdf). 2011.
      On the other hand, ASL provides an argument in favor of doing donkeys dynamically.
+   * [Trivalent accounts of presupposition projection](https://github.com/cb125/Dynamics/blob/main/Papers/george-2014-some_remarks_on_certain_trival.pdf). 2014. B. George
+   * Fragment [here](https://github.com/cb125/Dynamics/blob/main/Materials/04-heim-pointwise-presup.hs): a refactoring of the presupposition part of Heim's fragment that is pointwise (distributive); connectives are lazy, but without trivalence---presupposition failure is handled via a Maybe monad
+
 
 5. 3 Mar. [No general meeting; individual conferences with enrolled students]
 
