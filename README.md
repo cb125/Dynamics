@@ -88,7 +88,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    * [The view from sign language](https://github.com/cb125/Dynamics/blob/main/Papers/schlenker-2011_DonkeyAnaphoraTheViewFromSignL.pdf). 2011.
      On the other hand, ASL provides an argument in favor of doing donkeys dynamically.
    * [Trivalent accounts of presupposition projection](https://github.com/cb125/Dynamics/blob/main/Papers/george-2014-some_remarks_on_certain_trival.pdf). 2014. B. George
-   * Fragment [here](https://github.com/cb125/Dynamics/blob/main/Materials/04-heim-pointwise-presup.hs): a refactoring of the presupposition part of Heim's fragment that is pointwise (distributive); connectives are lazy, but without trivalence---presupposition failure is handled via a Maybe monad
+   * Fragment [here](https://github.com/cb125/Dynamics/blob/main/Materials/04-heim-presup-pointwise.hs): a refactoring of the presupposition part of Heim's fragment that is pointwise (distributive); connectives are lazy, but without trivalence---presupposition failure is handled via a Maybe monad
 
 
 5. 3 Mar. [No general meeting; individual conferences with enrolled students]
