@@ -1,9 +1,3 @@
--- in appendix, end of 1st paragraph, script I undefined; undefined on p. 13; terms undefined
--- back to specifying projection rules case by case
--- Heim 83 attitude towards indefinites as predicates
--- crucial for pronouns to have uniqueness presuppositions to get linearity?
--- "if" cannot be classical if we're going to have donkey anaphora
-
 type World = Int
 type Assignment = [Int]
 type Context = [(Assignment, World)]
