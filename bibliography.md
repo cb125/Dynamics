@@ -92,7 +92,14 @@ Mandy Harvey and Lynn Samelmann (eds). *Proceedings of SALT 4*
 Reprinted in Paul Dekker. 2012. 
 *Dynamic Semantics*. 7-47.  Springer.
 https://doi.org/10.1007/978-94-007-4869-9_2
-Propositions are true or false with respect to sequences of individuals.  Compare with Harris 2020.
+An early version of PLA (Predicate Logic with Anaphora); see comments after Dekker 2004.
+
+Dekker, Paul. 2004. Grounding dynamic semantics.
+In Anne Bezuidenhout & Marga Reimer (eds.), Descriptions and Beyond, Oxford University Press.
+PLA re-engineered so that expressions are evaluated wrt an assignment, a world, and a sequence of individuals (roughly, witnesses).
+Underappreciated.  Although the same name is given to the formal system (PLA) as for the 1994 paper, the 1994 fragment relied on context update, where this paper has a "static" semantics.
+
+Dekker, Paul. 2012. *Dynamic Semantics*. Springer.  Collection of Dekker's meditations on dynamic semantics, with special consideration of indefinites.
 
 Elliott, Patrick. 2020. Under review.  Toward a principled logic of anaphora.
 https://ling.auf.net/lingbuzz/005562.
@@ -218,12 +225,20 @@ indefinites. *Philosophical Studies* 158. 313–342.
 https://doi.org/10.1007/s11098-012-9882-y
 No grammatically-mediated uptake---even whether an indefinite enrolls a novel discourse referent is negotiable.
 
+Lewis, Karen. 2021 to appear.  Descriptions, pronouns, and uniqueness.
+
 Li, Haoze. 2021. Mandarin wh-conditionals: A question + dynamic meaning approach. Manuscript.
 
 Mandelkern, Matthew. 2020. Dynamic non-classicality.
 https://www.tandfonline.com/doi/full/10.1080/00048402.2019.1624376.
 It turns out that some dynamic systems invalidate certain classical inferences.  That's bad.
 [See info above about Matt's NYU spring 2021 seminar]
+
+Mandelkern, Matthew. 2020 manuscript. Witnesses. Classical static truth conditions for logical connectives.
+Indefinites translate as classical existential quantification.  They presuppose that if there is any object that
+satisfies their prejacent, the context maps their variable to such an object (a "witness").  This explains 
+the ability of an indefinite to license anaphora. There is also a dynamic semantics that tracks presuppositions.
+Beautiful fragment.
 
 Murray, Sarah. 2014. Varieties of update. 
 *Semantics and Pragmatics* 7.2. 1--51.
