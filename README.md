@@ -100,6 +100,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    * Slides [here](Materials/06-lewis-slides.pdf)
    * Some notes from Karen Lewis for the discussion [here](Materials/06-lewis-notes.pdf)
    * An implementation of the fragment in Lewis 2012 [here](https://github.com/cb125/Dynamics/blob/main/Materials/06-lewis.hs).
+   * Paul Dekker's 2004 [PLA](Papers/dekker-2004-pla.pdf)
    * Matt Mandelkern's manuscript [Witnesses](Papers/mandelkern-witnesses.pdf)
    * Implementation of Mandelkern's fragment [here](Materials/06-mandelkern.hs)
    * Patrick Elliott's manuscript [Towards a principled logic of anaphora](Papers/elliott-2020-principled-anaphora.pdf)
