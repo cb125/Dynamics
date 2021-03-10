@@ -97,6 +97,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
 
 6. 10 Mar. [Discourse dynamics, pragmatics, and
    indefinites](https://github.com/cb125/Dynamics/blob/main/Papers/lewis2012_DiscourseDynamicsPragmaticsAnd.pdf). 2012. Karen Lewis.  Even the ability of an indefinite to contribute a new discourse referent is negotiable.
+   * Slides [here](Materials/06-lewis-slides.pdf)
    * An implementation of the fragment in Haskell is [here](https://github.com/cb125/Dynamics/blob/main/Materials/06-lewis.hs).
 
 7. 17 Mar. [Varieties of update](https://github.com/cb125/Dynamics/blob/main/Papers/murray-2014-varieties-of-update.pdf). 2014.  Sarah Murray. Some update is
