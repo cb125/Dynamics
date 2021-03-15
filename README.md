@@ -108,7 +108,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
 7. 17 Mar. [Varieties of update](https://github.com/cb125/Dynamics/blob/main/Papers/murray-2014-varieties-of-update.pdf). 2014.  Sarah Murray. Some update is
    non-negotiable, including evidential inferences in Cheyenne.
    * Murray's 2010 dissertation [here](Papers/murray-2010-thesis.pdf)
-   * Notes on Dekker's 2004 PLA [here](Papers/07-dekker-pla-notes.pdf)
+   * Notes on Dekker's 2004 PLA [here](Materials/07-dekker-pla-notes.pdf)
 
 8. 24 Mar. [Appositive impositions in discourse](https://github.com/cb125/Dynamics/blob/main/Papers/anderbois-brasoveanu-henderson-2015-appositive-dynamics.pdf). 2015. AnderBois,
    Brasoveanu, and Henderson. Appositives non-negotiably impose their
