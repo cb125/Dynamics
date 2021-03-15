@@ -98,7 +98,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
 6. 10 Mar. [Discourse dynamics, pragmatics, and
    indefinites](https://github.com/cb125/Dynamics/blob/main/Papers/lewis2012_DiscourseDynamicsPragmaticsAnd.pdf). 2012. Karen Lewis.  Even the ability of an indefinite to contribute a new discourse referent is negotiable.
    * Slides [here](Materials/06-lewis-slides.pdf)
-   * Some notes from Karen Lewis for the discussion [here](Materials/06-lewis-notes.pdf)
+   * Some notes from Karen Lewis for the discussion [here](Materials/06-lewis-notes.pdf) [PDF issue has been fixed, 15 Mar]
    * An implementation of the fragment in Lewis 2012 [here](https://github.com/cb125/Dynamics/blob/main/Materials/06-lewis.hs).
    * Paul Dekker's 2004 [PLA](Papers/dekker-2004-pla.pdf)
    * Matt Mandelkern's manuscript [Witnesses](Papers/mandelkern-witnesses.pdf)
@@ -107,6 +107,8 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
 
 7. 17 Mar. [Varieties of update](https://github.com/cb125/Dynamics/blob/main/Papers/murray-2014-varieties-of-update.pdf). 2014.  Sarah Murray. Some update is
    non-negotiable, including evidential inferences in Cheyenne.
+   * Murray's 2010 dissertation [here](Papers/murray-2010-thesis.pdf)
+   * Notes on Dekker's 2004 PLA [here](Papers/07-dekker-pla-notes.pdf)
 
 8. 24 Mar. [Appositive impositions in discourse](https://github.com/cb125/Dynamics/blob/main/Papers/anderbois-brasoveanu-henderson-2015-appositive-dynamics.pdf). 2015. AnderBois,
    Brasoveanu, and Henderson. Appositives non-negotiably impose their
