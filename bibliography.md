@@ -95,9 +95,9 @@ https://doi.org/10.1007/978-94-007-4869-9_2
 An early version of PLA (Predicate Logic with Anaphora); see comments after Dekker 2004.
 
 Dekker, Paul. 2004. Grounding dynamic semantics.
-In Anne Bezuidenhout & Marga Reimer (eds.), Descriptions and Beyond, Oxford University Press.
-PLA re-engineered so that expressions are evaluated wrt an assignment, a world, and a sequence of individuals (roughly, witnesses).
-Underappreciated.  Although the same name is given to the formal system (PLA) as for the 1994 paper, the 1994 fragment relied on context update, where this paper has a "static" semantics.
+In Anne Bezuidenhout & Marga Reimer (eds.), *Descriptions and Beyond*, Oxford University Press.
+PLA re-engineered so that expressions are evaluated wrt an assignment and a sequence of individuals (interpreted as indefinite witnesses).
+Elegant, underappreciated.  Although the same name is given to the formal system (PLA) as for the 1994 paper, the 1994 fragment relied on context update, where this paper has a "static" semantics.
 
 Dekker, Paul. 2012. *Dynamic Semantics*. Springer.  Collection of Dekker's meditations on dynamic semantics, with special consideration of indefinites.
 
