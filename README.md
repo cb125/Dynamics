@@ -110,6 +110,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    * Murray's 2010 dissertation [here](Papers/murray-2010-thesis.pdf)
    * Notes on Dekker's 2004 PLA [here](Materials/07-dekker-pla-notes.pdf)
    * Simon Charlow's to appear `Where is the destructive update problem?' [here](Papers/charlow-destructive-update.pdf)
+   * Simons et al. 2010 Projective Meaning [here](https://github.com/cb125/Dynamics/blob/main/Papers/stbr-2010-projective-meaning.pdf)
 
 8. 24 Mar. [Appositive impositions in discourse](https://github.com/cb125/Dynamics/blob/main/Papers/anderbois-brasoveanu-henderson-2015-appositive-dynamics.pdf). 2015. AnderBois,
    Brasoveanu, and Henderson. Appositives non-negotiably impose their
