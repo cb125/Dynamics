@@ -108,11 +108,10 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    non-negotiable, including evidential inferences in Cheyenne.
    * Slides [here](Materials/07-murray-slides.pdf)
    * Murray's 2010 dissertation [here](Papers/murray-2010-thesis.pdf)
-   * Simons et al. 2010 `What projects and why' [here](Papers/stbr-projective-meaning.pdf)
+   * Simons et al. 2010 `What projects and why' [here](Papers/stbr-2010-projective-meaning.pdf)
    * Paul Dekker's 2004 PLA [here](Papers/dekker-2004-pla.pdf)
    * Notes on Dekker's 2004 PLA [here](Materials/07-dekker-pla-notes.pdf)
    * Simon Charlow's to appear `Where is the destructive update problem?' [here](Papers/charlow-destructive-update.pdf)
-
 
 8. 24 Mar. [Appositive impositions in discourse](https://github.com/cb125/Dynamics/blob/main/Papers/anderbois-brasoveanu-henderson-2015-appositive-dynamics.pdf). 2015. AnderBois,
    Brasoveanu, and Henderson. Appositives non-negotiably impose their
