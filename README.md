@@ -107,6 +107,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
 
 7. 17 Mar. [Varieties of update](https://github.com/cb125/Dynamics/blob/main/Papers/murray-2014-varieties-of-update.pdf). 2014.  Sarah Murray. Some update is
    non-negotiable, including evidential inferences in Cheyenne.
+   * Slides [here](Materials/07-murray-slides.pdf)
    * Murray's 2010 dissertation [here](Papers/murray-2010-thesis.pdf)
    * Notes on Dekker's 2004 PLA [here](Materials/07-dekker-pla-notes.pdf)
    * Simon Charlow's to appear `Where is the destructive update problem?' [here](Papers/charlow-destructive-update.pdf)
