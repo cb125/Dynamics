@@ -118,6 +118,8 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    content on the context state.  Getting at-issue content right
    depends on tracking appositive content.  This approach is explored 
    at length in Todor Koev's forthcoming OUP book.
+   * Schlenker, Philippe. 2021. [here](Papers/schlenker_21_Supplements.pdf)
+   * Amaral, Roberts, and Smith. 2007. Review of Potts 2005.  [here](Papers/amaral-et-al-2007-review-potts-2005.pdf)
 
 9. 31 Mar. [A preference semantics for imperatives](https://github.com/cb125/Dynamics/blob/main/Papers/starr-2020-dynamic-imperatives.pdf). 2020. Will Starr.
    "I will argue that the only way for the non-representationalist to 
