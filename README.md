@@ -118,6 +118,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    content on the context state.  Getting at-issue content right
    depends on tracking appositive content.  This approach is explored 
    at length in Todor Koev's forthcoming OUP book.
+   * Slides [here](Materials/08-anderbois-slides.pdf)
    * Schlenker, Philippe. 2021. Supplements without Bidimentionalism. [here](Papers/schlenker_21_Supplements-.2.pdf)
    * Amaral, Roberts, and Smith. 2007. Review of Potts 2005.  [here](Papers/amaral-et-al-2007-review-potts-2005.pdf)
 
