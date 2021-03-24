@@ -122,7 +122,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    * Schlenker, Philippe. 2021. Supplements without Bidimentionalism. [here](Papers/schlenker_21_Supplements-.2.pdf)
    * Amaral, Roberts, and Smith. 2007. Review of Potts 2005.  [here](Papers/amaral-et-al-2007-review-potts-2005.pdf)
    * Koev, Todor. Under contract. *Parenthetical meaning*. [first chapter](Papers/koev-chapter-1.pdf) Comprehensive treatment, evaluting Potts, AnderBois et al., Schlenker, and proposing a dynamic treatment.
-   * Martin, Scott. 2016.  Supplemental Updates. *Semantics and Pragmatics*. [here](Papers/martin-2016-supplemental-update.pdf)
+   * Martin, Scott. 2016.  Supplemental Update. *Semantics and Pragmatics*. [here](Papers/martin-2016-supplemental-update.pdf)
 
 9. 31 Mar. [A preference semantics for imperatives](https://github.com/cb125/Dynamics/blob/main/Papers/starr-2020-dynamic-imperatives.pdf). 2020. Will Starr.
    "I will argue that the only way for the non-representationalist to 
