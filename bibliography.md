@@ -12,6 +12,8 @@ https://doi.org/10.1093/jos/fft014
 "[T]he two kinds of content [at-issue versus appositive] must be integrated into a single, incrementally evolving semantic representation."  
 Appositives *impose* an update on the context set, at-issue content *proposes* an update.
 
+Amaral, Patricia, Craige Roberts, and E. Allyn Smith. 2007. Review of *The Logic of Conventional Implicatures* by Chris Potts. *Lingusitics and Philosophy* 30:707-749. A truly great book review, full of new observations and challenges.
+
 Barker, Chris and Chung-chieh Shan. 2014. *Continuations and Natural Language*. Oxford University Press.  An in-depth treatment of evaluation order, with careful consideration of quantificational binding and weak crossover.
 
 Beaver, David. 2001. *Presupposition and Assertion in Dynamic Semantics*.  CSLI Publications.
@@ -298,6 +300,8 @@ Schlenker, Philippe. 2011. Donkey anaphora: the view from sign
 language (ASL and LSF).  *Linguistics and Philosophy* 34. 341–395.
 https://doi.org/10.1007/s10988-011-9098-1
 Data from two sign languages provide evidence in support of dynamic approaches to donkey anaphora.
+
+Schlenker, Philippe. 2021. Supplements without Bidimentionalism.  Revised manuscript.  Survey data and arguments supporting a scope-based account of supplements, including appositives.
 
 Scontras et al. [no date]. Probabalistic language understanding.  An
 introduction to the Rational Speech Act framework.
