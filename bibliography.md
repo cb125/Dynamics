@@ -279,6 +279,13 @@ Discourse is a game with context as a scoreboard organized around the *questions
 Roberts, Craige. 2017.  Linguistic convention and the architecture of interpretation. *Analytic Philosophy* 58.4. 418-439.
 A critique of Lepore and Stone's 2015 book, *Imagination and Convention*.  Considering a wide range evidence from linguistics and psycholinguistics and beyond, Roberts argues for Gricean considerations as parallel to other constraints on meaning.
 
+Rothschild, Daniel. 2017.  A Trivalent Account of Anaphora and
+Presupposition.  *21st Amsterdam Colloquium* 21.  Aims to extend
+trivalent goodness from presupposition projection to cover anaphora as
+well.  "It is my view that, when the dust has settles, [a trivalent
+account] remains the ***simplest viable*** treatment of presupposition
+projection on the market."
+
 Rothschild, Daniel, and Stephen Yablo. 2020. Permissive updates. Ms. Truthmaker semantics for deontic modality, along with bridge principles for the semantics/pragmatics interface.
 
 Rothschild, Daniel, and Seth Yalcin. 2016. Three notions of dynamicness in language. *Linguistics and Philosophy* 39. 333–355.
