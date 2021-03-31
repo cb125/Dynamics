@@ -359,6 +359,17 @@ Willer, Malte. 2018. Simplifying with Free Choice. *Topoi* 37.3. 379–392
 https://doi.org/10.1007/s11245-016-9437-5.
 Tracking positive and negative updates accounts for free choice implications.
 
+Winter, Yoad. 2019.  On Presupposition Projection with Trivalent
+Connectives.  In *Semantics and Linguistic Theory* 29: 582 ff.
+https://doi.org/10.3765/salt.v29i0.4644 Starts with strong Kleene,
+then proposes a filtering algorithm based on "determinant values".
+"Presuppositions are often thought of as a pragmatic matter, and there
+are many good reasons for that. However, the projection of
+presuppositions is connected to questions that are at the heart of
+formal semantic theory. We cannot separate inference with
+presuppositions from the meaning of the most prototypically “logical”
+elements of language – the propositional connectives."
+
 Szabo, Zoltan. 2000. Descriptions and Uniqueness.
 *Philosophical Studies* 101: 29 – 57.
 A discussion of novelty and familiarity, and the division of labor between semantics and pragmatics.  Lots of thought-provoking examples.
