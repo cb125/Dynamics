@@ -290,6 +290,8 @@ Rothschild, Daniel, and Stephen Yablo. 2020. Permissive updates. Ms. Truthmaker 
 
 Rothschild, Daniel, and Seth Yalcin. 2016. Three notions of dynamicness in language. *Linguistics and Philosophy* 39. 333–355.
 https://doi.org/10.1007/s10988-016-9188-1.  A provocative paper offering technical criteria for counting as genuinely dynamic.
+"These definitions do not capture the idea of a conversation system which is such that it can only be compositionally induced by a semantics which is dynamic in shape—that is, whose only matching compositional semantics is surface dynamic... We might call such systems (if they exist) *essentially dynamic*. If there were clear examples of fragments of natural language having this property, it would be a powerful form of argument for dynamic approaches to compositional semantics. But it seems to us that the relevant technical notion of “essentially dynamic” is elusive. Our aim has been to draw this out.
+
 
 Schlenker, Philippe. 2007. Anti-dynamics: presupposition projection
 without dynamic semantics. *Journal of Logic, Language, and
