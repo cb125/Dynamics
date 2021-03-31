@@ -231,6 +231,12 @@ Lewis, Karen. 2021 to appear.  Descriptions, pronouns, and uniqueness.
 
 Li, Haoze. 2021. Mandarin wh-conditionals: A question + dynamic meaning approach. Manuscript.
 
+Mandelkern, Matthew. 2019.
+Bounded Modality.
+*The Philosophical Review* 128.1: 1–61.
+https://doi.org/10.1215/00318108-7213001
+"epistemic modals are quantifiers over accessible worlds, as the standard theory has it; but, crucially, their domain of quantification is limited by their local contexts." 
+
 Mandelkern, Matthew. 2020. Dynamic non-classicality.
 https://www.tandfonline.com/doi/full/10.1080/00048402.2019.1624376.
 It turns out that some dynamic systems invalidate certain classical inferences.  That's bad.
