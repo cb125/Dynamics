@@ -129,6 +129,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
    meet these three challenges is to adopt a dynamic semantics. 
    Such a dynamic semantics is proposed here: imperatives 
    introduce preferences between alternatives."
+   * Slides [here](Materials/09-starr-slides.pdf). The slides contain a discussion of trivalence; see the notes for week 4 (Schlenker) for a discussion of George 2007, and see Elliott 2020, Rothschild 2017, and Winter 2019 in the bibliography and in the Papers directory for relevant discussion.
 
 10. 7 Apr. [Post-suppositions and semantic theory](https://github.com/cb125/Dynamics/blob/main/Papers/charlow-2016-Post-suppositions.pdf). 2018ish. Simon Charlow.
     Two ways of climbing the type hierarchy in a dynamic theory in order to
