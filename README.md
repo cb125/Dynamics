@@ -137,6 +137,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
     (split scope).  The other lifts the type of propositions (a kind of update semantics).
     Other dynamic split-scope analyses: Bumford 2018 (*the rabbit in the hat*), Law 2018 (distributivity),
     Kuhn to appear (negative concord).
+    * An implementation of the Charlow update solution [here](https://gist.github.com/schar/019441bc163550fb40cf3f077113ddd8)
 
 11. 14 Apr.  [The dynamics of loose talk](https://github.com/cb125/Dynamics/blob/main/Papers/carter-loose-talk.pdf). To appear.  Sam Carter.  
     A dynamic account of certain assertions that are not literally true, 
