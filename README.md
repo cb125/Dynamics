@@ -143,6 +143,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
 11. 14 Apr.  [The dynamics of loose talk](https://github.com/cb125/Dynamics/blob/main/Papers/carter-loose-talk.pdf). To appear.  Sam Carter.  
     A dynamic account of certain assertions that are not literally true, 
     along with arguments that the treatment must be semantic rather than pragmatic.
+    * Slides [here](Materials/11-carter-slides.pdf)
     * An important predecessor: Lasersohn's Pragmatic Halos paper, available [here](Papers/lasersohn-1999-pragmatic-halos.pdf)
 
 ### Unit 3: Rational Speech Act theory
