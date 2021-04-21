@@ -83,6 +83,9 @@ Includes the argument that the conservativity of determiners follows from the le
 
 Chierchia, Gennaro. 2020. Origins of Weak Crossover: when Dynamic Semantics meets Event Semantics. *Natural Language Semantics* 28: 23–76. [Haven't seen it yet--could be interesting!]
 
+Cohn-Gordon, Reuben, Noah Goodman, and Christopher Potts.  2018. An Incremental Iterated Response Model of Pragmatics.
+Manuscript.  An RSA model of incremental interpretation that can handle data that is "out of reach" of global models.
+
 Cresswell, Max. 2002. Static semantics for dynamic discourse. *Linguistics and Philosophy* 25. 545--571.
 https://doi.org/10.1023/A:1020834910542
 Data motivating dynamic semantics "simply shows that truth-conditional 
