@@ -151,7 +151,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
 12. 21 Apr. Two papers in apposition (the second paper is 1 page long):
     * [Semantics without semantic content](https://github.com/cb125/Dynamics/blob/main/Papers/harris-2020-SemanticsWithoutSemanticContent.pdf). 2020.  Dan Harris.  "A sentence's semantic value is not its content but a partial and defeasible constraint on what it can be used to say."  
     * [Predicting pragmatic reasoning in language games](https://github.com/cb125/Dynamics/blob/main/Papers/frank-goodman-2012.pdf). 2012. Michael Frank and Noah Goodman.  A quantitative theory of how general cognition selects among possible contents.
-    * New draft by Craige Roberts: Imperatives in a dynamic pragmatics.  [here](Papers/roberts-2021-imperatives-in-a-dynamic-pragmatics.pdf)
+    * New draft by Craige Roberts: Imperatives in a dynamic pragmatics.  [here](Papers/roberts-2021-imperatives-in-dynamic-pragmatics.pdf)
 
 13. 28 Apr.  [Adjectival vagueness in a Baysian model of interpretation](https://github.com/cb125/Dynamics/blob/main/Papers/lassiter-goodman-2017_AdjectivalVaguenessInABayesian.pdf). 2017. Dan Lassiter and Noah Goodman. How vagueness can emerge from reasoning about adjective extensions.
 
