@@ -151,6 +151,7 @@ See [bibliography](https://github.com/cb125/Dynamics/blob/main/bibliography.md) 
 12. 21 Apr. Two papers in apposition (the second paper is 1 page long):
     * [Semantics without semantic content](https://github.com/cb125/Dynamics/blob/main/Papers/harris-2020-SemanticsWithoutSemanticContent.pdf). 2020.  Dan Harris.  "A sentence's semantic value is not its content but a partial and defeasible constraint on what it can be used to say."  
     * [Predicting pragmatic reasoning in language games](https://github.com/cb125/Dynamics/blob/main/Papers/frank-goodman-2012.pdf). 2012. Michael Frank and Noah Goodman.  A quantitative theory of how general cognition selects among possible contents.
+    * **Slides** [here](Materials/12-harris-slides.pdf)
     * Cohn-Gordon, Reuben, Noah Goodman, and Christopher Potts.  2018. An Incremental Iterated Response Model of Pragmatics.
 Manuscript.  An RSA model of incremental interpretation that can handle data that is "out of reach" of global models. [here](Papers/cohn-gordon-et-al-2018-incremental-rsa.pdf)
     * New draft by Craige Roberts: Imperatives in a dynamic pragmatics.  [here](Papers/roberts-2021-imperatives-in-dynamic-pragmatics.pdf)
