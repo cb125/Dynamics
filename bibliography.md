@@ -285,6 +285,10 @@ Discourse is a game with context as a scoreboard organized around the *questions
 Roberts, Craige. 2017.  Linguistic convention and the architecture of interpretation. *Analytic Philosophy* 58.4. 418-439.
 A critique of Lepore and Stone's 2015 book, *Imagination and Convention*.  Considering a wide range evidence from linguistics and psycholinguistics and beyond, Roberts argues for Gricean considerations as parallel to other constraints on meaning.
 
+Roberts, Craige. 2021. Imperatives in a dynamic pragmatics. Manuscript.
+This account is essentially pragmatic in that a central aspect of the meaning of an imperative utterance—its apparent deontic force—is not given by its compositional, syntactico-semantic content, but instead arises from the interaction between that content and the pragmatics of the canonical use of imperative clauses. The semantics of imperatives, like that of other linguistic constituents, is static, with the usual truth conditional, compositional derivations. The dynamics, the way that content serves as an update on context, lies entirely in the pragmatics of use of the conventional content.
+
+
 Rothschild, Daniel. 2017.  A Trivalent Account of Anaphora and
 Presupposition.  *21st Amsterdam Colloquium* 21.  Aims to extend
 trivalent goodness from presupposition projection to cover anaphora as
