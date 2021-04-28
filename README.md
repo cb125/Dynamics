@@ -157,6 +157,34 @@ Manuscript.  An RSA model of incremental interpretation that can handle data tha
     * New draft by Craige Roberts: Imperatives in a dynamic pragmatics.  [here](Papers/roberts-2021-imperatives-in-dynamic-pragmatics.pdf)
 
 13. 28 Apr.  [Adjectival vagueness in a Baysian model of interpretation](https://github.com/cb125/Dynamics/blob/main/Papers/lassiter-goodman-2017_AdjectivalVaguenessInABayesian.pdf). 2017. Dan Lassiter and Noah Goodman. How vagueness can emerge from reasoning about adjective extensions.
+    * **Slides** [here](Materials/13-lassiter-slides.pdf)
+    * Final notes from the 2008 version of this seminar [here](Materials/barker-2008-seminar-final-notes.pdf)
 
-14. 5 May. [Student presentations]
+* Wed 5 May, 3:30 -- 5:30 
+* Five presentations, each 20 minutes, including discussion
+* Same link as the normal class; all welcome
+
+14. 5 May.
+
+* Wed 5 May, 3:30 -- 5:30 
+* Five presentations, each 20 minutes, including discussion
+* Same link as the normal class; all welcome
+
+Schedule:
+
+1. Omar Agha
+   * **The role of QUD-relevance in presupposition projection**
+2. Nigel Flower
+   * **The dynamics of presuppositional islands**
+3. Zhuoye Zhao
+   * **Supplement projection and discourse coherence**
+
+*5 minute break*
+
+4. Anna Alsop
+   * **Hurford conjunctions in context**
+5. Chris Barker
+   * **Composing local contexts**
+
+
 
