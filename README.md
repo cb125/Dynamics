@@ -164,7 +164,7 @@ Manuscript.  An RSA model of incremental interpretation that can handle data tha
 * Five presentations, each 20 minutes, including discussion
 * Same link as the normal class; all welcome
 
-14. 5 May.
+14. 5 May.  **Student presentations**
 
 * Wed 5 May, 3:30 -- 5:30 
 * Five presentations, each 20 minutes, including discussion
