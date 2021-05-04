@@ -161,7 +161,7 @@ Manuscript.  An RSA model of incremental interpretation that can handle data tha
     * Final notes from the 2008 version of this seminar [here](Materials/barker-2008-seminar-final-notes.pdf)
 
 * Wed 5 May, 3:30 -- 5:30 
-* Five presentations, each 20 minutes, including discussion
+* Four presentations, each 20 minutes, including discussion
 * Same link as the normal class; all welcome
 
 14. 5 May.  **Student presentations**
