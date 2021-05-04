@@ -176,14 +176,12 @@ Schedule:
    * **The role of QUD-relevance in presupposition projection**
 2. Nigel Flower
    * **The dynamics of presuppositional islands**
-3. Zhuoye Zhao
-   * **Supplement projection and discourse coherence**
 
 *5 minute break*
 
-4. Anna Alsop
-   * **Hurford conjunctions in context**
-5. Chris Barker
+3. Zhuoye Zhao
+   * **Supplement projection and discourse coherence**
+4. Chris Barker
    * **Composing local contexts**
 
 
