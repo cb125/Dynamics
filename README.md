@@ -183,7 +183,7 @@ Schedule:
    * **Supplement projection and discourse coherence**
 4. Chris Barker
    * **Composing local contexts**
-   * Slides [here](Materials/barker-local-contexts.pdf)
+   * Slides [here](Materials/barker-local-contexts-slides.pdf)
 
 
 
